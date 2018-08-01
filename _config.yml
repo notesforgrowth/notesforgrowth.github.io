@@ -106,4 +106,4 @@ defaults:
 emptyArray: []
 
 comments:
-  receiver: https://{{your-receiver-site}}/api/PostComment}}
+  receiver: https://blog-comments-stevencl-function.azurewebsites.net/api/PostComment
