@@ -39,11 +39,11 @@
       var form = document.getElementById('commentform')
       form.action = '{{ site.comments.receiver }}'
       button.innerText = 'Posting...'
-      //button.disabled = true
-      var fields = document.getElementById('commentfields')                                         
-      fields.disabled = true
-      form.submit()
       button.disabled = true
+      var fields = document.getElementById('commentfields')                                         
+      //fields.disabled = true
+      form.submit()
+      
     }
   </script>
 </form>
