@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Developer Day: Customer-Driven Engineering at Scale
+title: Developer Day - Customer-Driven Engineering at Scale
 ---
 
 Within the Developer Division (DevDiv), everyone from our product teams talk to customers, every day. Yet, one time each year, DevDiv hosts a large-scale event that brings our customers and product teams together. While this event takes place over a single day each year, it truly exemplifies what it’s like to work in DevDiv every single day.
