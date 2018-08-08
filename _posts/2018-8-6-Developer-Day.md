@@ -31,7 +31,7 @@ This selection process allows us to create a sample of customers that represent 
 
 Once the customers accept their invitations, we generate hundreds of schedules, coordinating the product teams with their customers for each 20-minute time slot.
 
-![Older gentleman speaking to the DevDiv product team](/images/DeveloperDay/01.jpg) 
+![Older gentleman speaking to the DevDiv product team](/images/Developer-Day/01.jpg) 
 
 # Meeting Teams Where They Are
 It’s not enough to just recruit customers, you also need to help the product teams plan for their customer interviews.
@@ -46,7 +46,7 @@ Additionally, DevDiv uses a “Customer Development Notes” e-mail alias, where
 
 Our product teams have been using all of these tools and templates in their everyday work, so when it comes time to use them for Developer Day, they’re ready and prepared.
 
-![Older gentleman speaking to the DevDiv product team](/images/DeveloperDay/02.jpg)
+![Older gentleman speaking to the DevDiv product team](/images/Developer-Day/02.jpg)
 
 # Mixed Methods
 While talking to customers is one of the easiest and fastest ways to collect direct feedback, Developer Day also gives our product teams opportunities to explore other research methods.
@@ -62,4 +62,4 @@ Also, we aren’t the only ones that benefit from Developer Day. Our customers o
 
 Ginny Caughey, a customer and President of Carolina Software, Inc. loves Developer Day, “[It’s] a great opportunity to tell Microsoft exactly what I need; and I love it that Microsoft is becoming more transparent. So, I feel like you’re sharing your world with me.”
 
-![Older gentleman speaking to the DevDiv product team](/images/DeveloperDay/03.jpg)
+![Older gentleman speaking to the DevDiv product team](/images/Developer-Day/03.jpg)
