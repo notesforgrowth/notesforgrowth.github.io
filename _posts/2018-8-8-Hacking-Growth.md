@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Hacking Growth - How Monty Revolutionized Everything We've Ever Done
+title: 15 Must-Know Tips from Ellis and Brown's "Hacking Growth"
 ---
 
 # Hello World
+* item 1
+* item 2
 
-This is the <i>most important</i>
-Some more changes...
-Even more changes
