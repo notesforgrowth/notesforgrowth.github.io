@@ -15,12 +15,12 @@
 
 .author {
   font-size: 10pt;
-  color: $gray;
+  color: #6f6f6f;
 }
 
 .date {
   font-size: 8pt;
-  color: $gray;
+  color: #6f6f6f;
 }
 
 /**************/
@@ -45,7 +45,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  /*font-family: $helveticaNeue;*/
   color: $darkerGray;
   font-weight: bold;
 
