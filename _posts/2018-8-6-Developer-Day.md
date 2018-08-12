@@ -19,7 +19,7 @@ Each interview is set to 20 minutes and, after the time is up, our employees mov
 
 While conducting six interviews can be demanding, it gives our product teams an opportunity to generate many customer touch points. Developer Day will typically generate well over 600 interviews for our product teams. Many of our employees stay in contact with the customers they meet, well after the event.
 
-## Finding the Right Customers
+### Finding the Right Customers
 In a single event our product teams are given an opportunity to connect with an incredibly diverse sample of customers.
 
 Almost all the customers that attend Developer Day are developers who have already registered for Build. Typically, anywhere between 700-800 Build attendees will request to be invited to our exclusive Developer Day event.
@@ -34,7 +34,7 @@ Once the customers accept their invitations, we generate hundreds of schedules, 
 
 ![Older gentleman speaking to the DevDiv product team](/images/Developer-Day/01.jpg) 
 
-## Meeting Teams Where They Are
+### Meeting Teams Where They Are
 It’s not enough to just recruit customers, you also need to help the product teams plan for their customer interviews.
  
 Every PM in DevDiv receives training and tools to employ our [Customer-Driven Engineering](/CustomerDrivenEngineering/ "Customer-Driven Engineering") approach. Armed with their own hypotheses and discussion guides, they’re able to go into their interviews with a plan for what they’re trying to learn.  
@@ -49,14 +49,14 @@ Our product teams have been using all of these tools and templates in their ever
 
 ![Older gentleman speaking to the DevDiv product team](/images/Developer-Day/02.jpg)
 
-## Mixed Methods
+### Mixed Methods
 While talking to customers is one of the easiest and fastest ways to collect direct feedback, Developer Day also gives our product teams opportunities to explore other research methods.
 
 During the event, our customers will experience usability studies, activity walls, concept value tests, and even eye tracking studies.
 
 Product teams are encouraged to employ multiple methods when learning from customers, so they can increase the confidence in their findings.
 
-## Data that's Representative <i>and</i> Relatable
+### Data that's Representative <i>and</i> Relatable
 While Developer Day helps teams gain valuable product insights, the event has become so much more than just collecting customer data. It’s an opportunity for our employees to truly connect with the customers they serve.
 
 Also, we aren’t the only ones that benefit from Developer Day. Our customers often leave feeling energized and hopeful about the future of Microsoft and our products.
