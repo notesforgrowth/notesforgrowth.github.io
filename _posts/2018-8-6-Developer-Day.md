@@ -12,7 +12,7 @@ We also invite leaders from other divisions within Microsoft to give them a chan
 
 “We took a lot of leaders, from other divisions, to come observe and learn; because we feel this process can be further scaled out to more Microsoft teams,” explains Julia Liuson, CVP of Visual Studio.
 
-## Conducting "Speed Interviews"
+### Conducting "Speed Interviews"
 To create so many customer connections we organize the event using a “speed interviewing” format. Essentially, each customer is assigned a table and a PM and Engineer, from our team, pair up to conduct interviews.
  
 Each interview is set to 20 minutes and, after the time is up, our employees move on to the next customer table. This results in each PM and Engineer pair getting a chance to speak to six customers.
