@@ -9,6 +9,20 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
+/******************/
+/* CUSTOMIZATIONS */
+/******************/
+
+.author {
+  font-size: 10pt;
+  color: $gray;
+}
+
+.date {
+  font-size: 8pt;
+  color: $gray;
+}
+
 /**************/
 /* BASE RULES */
 /**************/
@@ -35,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
   color: $darkerGray;
   font-weight: bold;
 
-  line-height: 1.7;
+  line-height: 1.9;
   margin: 1em 0 15px;
   padding: 0;
 
@@ -113,11 +127,6 @@ img {
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
-}
-
-.date {
-  font-style: italic;
-  color: $gray;
 }
 
 // Specify the color of the selection

@@ -4,15 +4,11 @@ layout: default
 
 <article class="post"> 
   <h1>{{ page.title }}</h1>
-  <h2>{{ page.author }}</h2>
+  <span class="author">Written by {{ page.author }} on {{ page.date | date: "%B %e, %Y" }} </span>
   <div class="entry"> 
     {{ content }} 
-  </div> 
-  <div class="date"> 
-    Written on {{ page.date | date: "%B %e, %Y" }} 
   </div>
-  <div>
-    Comments
+  <div>    
    {% include disqus.html %}
   </div>
 </article>
