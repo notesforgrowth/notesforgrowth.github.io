@@ -4,6 +4,8 @@ title: 15 Must-Know Tips from Ellis and Brown's "Hacking Growth"
 author: Monty Hammontree
 ---
 
+![Book cover of Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success](/images/Hacking-Growth/Book-Cover.jpg){.image-left} 
+
 I enjoyed reading [Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success](https://www.amazon.com/Hacking-Growth-Fastest-Growing-Companies-Breakout/dp/045149721X/ref=sr_1_4?s=books&ie=UTF8&qid=1534271354&sr=1-4&keywords=hacking+growth "Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success") by Ellis and Brown and I took many valuable lessons from it.  It easily made my top 5 list of all-time favorite professional books. 
  
 The book is divided into two parts.  The first, introduces growth hacking (aka lean engineering) processes, the roles you need to fill on your team, and cultural keys for success.   The second, provides detailed tips and tricks for to how to effectively implement growth hacking across all phases of your customer funnel.   
@@ -25,14 +27,14 @@ With your core market and value in mind, you can focus on making investments tha
 ### 3. "Must-Have" Survey Questions and Thresholds
 There's also a way to measure whether we've found our "must have" experience or not.  It's based on a simple survey question:
 
-"How dissapointed would you be if [product or feature] was not delivered?"
+_"How dissapointed would you be if [product or feature] was not delivered?"_
  
 
-* <b>If 40+% of customers in our core market would be "very disappointed":</b> We have achieved "must have" status.
+* **If 40+% of customers in our core market would be "very disappointed":** We have achieved "must have" status.
 
-* <b>If 25-40% of customers in our core market would be "very disappointed":</b> We need to either tweek our offereing or the language we use to describe it.
+* **If 25-40% of customers in our core market would be "very disappointed":** We need to either tweek our offereing or the language we use to describe it.
 
-* <b>If &lt;25% customers in our core market would be "very disappointed":</b> We shouldn't push for growth or we run the risk of disillusioning our core market (This is also one of the deadliest mistakes a "growth hacking" team can make).
+* **If &lt;25% customers in our core market would be "very disappointed":** We shouldn't push for growth or we run the risk of disillusioning our core market (This is also one of the deadliest mistakes a "growth hacking" team can make).
 
 ### 4. Combine Qualitative "Why" with Quantitative "What" Research
 Customer interviews are the most effective approach to understanding "why" our core market does or does not see our experience as a "must have".
@@ -59,7 +61,7 @@ One such example is the story of [Yelp's](http://www.yelp.com "Yelp's") journey 
 ### 7. Test at a High Tempo and On a Regular Cadence
 Alex Schultz from Facebook is cited in the book as having said:
 
-    "If you're pushing code once every two weeks and your competitor is pushing code every week, just after two months that competitor will have done 10 times as many tests as you.  That competitor will have learned 10 times, an order magnitude more about their product [than you]."
+>"If you're pushing code once every two weeks and your competitor is pushing code every week, just after two months that competitor will have done 10 times as many tests as you.  That competitor will have learned 10 times, an order magnitude more about their product [than you]."
 
 The book includes a chapter on the stages of a healthy  "growth hacking" cycle and instructions on how to conduct each stage.  It goes so far as provide a detailed agenda for teams to use for their weekly one-hour growth team meeting at which the team reviews prior results and agrees on the next week's set of experiments to implement.   
 
@@ -82,7 +84,7 @@ The book provides a number of useful taxonomies for how to discover and optimize
 ### 10. Landing Pages Have 8 Seconds to Grab Customer Attention
 The average attention span given to new online information is getting shorter over time.  Back in the year 2000 the researchers claim the average online attention span was 12 seconds, whereas, at the time of the writing of the book it had dropped to 8 seconds.
 
-    "This means that the language you use must directly and persuasively connect with a need or desire they [your customers] have in order to hook them - in eight seconds or less - into giving you a few more heartbeats to convince them of why they should come on board."
+>"This means that the language you use must directly and persuasively connect with a need or desire they [your customers] have in order to hook them - in eight seconds or less - into giving you a few more heartbeats to convince them of why they should come on board."
 
 ### 11. Language is a Perfect Fit for A/B Testing
 There are a number of great examples of how small language changes had a profound impact on growth.  Given the low cost and potentially high impact of language changes why haven't I spent more time with the teams I work with capturing assumptions, formulating hypotheses, and running experiments about language choice?  I don't have a good answer.  Like most, if not all, of the other "growth hacking" guidelines called out this review I deeply appreciate the reminder from these authors and aspire to ramp up our teams efforts in this area going forward.
@@ -92,18 +94,18 @@ There's a very powerful principle that as you iterate on your "must-have experie
 
 As you hone in on the language for describing your core value, that resonates most with target customers, you should reexamine your product for opportunities to better deliver on that resonate value.
 
-    "Sometimes the changes in wording you arrive at will lead you to additional changes to make, not only in your copy, but in your overall branding and maybe even in the nature of your product itself…"
+>"Sometimes the changes in wording you arrive at will lead you to additional changes to make, not only in your copy, but in your overall branding and maybe even in the nature of your product itself…"
 
 ### 13. Increase Customer Rate to the "Must-Have A-Ha" Moment
 The point of view that the key to keeping users moving through your funnel is to drive as many users as possible to the "aha" moment about your "must-have experience" as soon as possible is very powerful:
 
-    "Remember that all of this experimentation and analysis should be focused on discovering the aha moment you are offering, or can offer, customers.  Once the conditions that create that magical experience have been identified, the growth team should turn its attention to getting more customer to experience that moment as fast as possible."
+>"Remember that all of this experimentation and analysis should be focused on discovering the aha moment you are offering, or can offer, customers.  Once the conditions that create that magical experience have been identified, the growth team should turn its attention to getting more customer to experience that moment as fast as possible."
 
 It's important to identify all the steps in your customer's journey to the "must-have" product or feature. Each step can then be analyzed for opportunities to reduce the friction to moving to the next step, to increase comprehension of the value of moving to the next step, and/or to increase comprehension of the cumulative "core value" attained throughout the journey.
 
 This simple equation can help us keep the two primary forces that shape our customer's journey through the funnel in mind:
 
-    DESIRE - FRICTION = CONVERSION RATE
+>**DESIRE - FRICTION = CONVERSION RATE**
 
 ### 14. NUX Conversion Trinity
 The authors put forth two simple rules or guidelines for designing and optimizing the new user experience (NUX) for your product or service.  Their first recommendation is to treat it as a product of its own.  One that warrants crafting its own special experience for it.  One benefit they cite of making it its own experience is that it makes it easier for the growth team to conduct experiments on this experience without having to manage inner dependencies with other aspects of the customer journey and without impacting the experience of current users. 
@@ -112,5 +114,5 @@ The second rule of thumb is that the first page of the NUX experience must accom
 
 communicate relevance, show the value of the product, and provide a clear call to action.  They credit Bryan Eisenberg as having coined the term the "conversion trinity" to refer to these three factors.  I found the following definition they provide for each of the factors to be useful.
 
-    "Relevance stands for how well the page matches the intent or desire of the visitor- is this what they came for?  Showing value is immediately answering the visitor's question 'What's in it for me?' clearly and concisely.  Lastly, the call to action provides a compelling next step for visitors to take."
+>"Relevance stands for how well the page matches the intent or desire of the visitor- is this what they came for?  Showing value is immediately answering the visitor's question 'What's in it for me?' clearly and concisely.  Lastly, the call to action provides a compelling next step for visitors to take."
 
