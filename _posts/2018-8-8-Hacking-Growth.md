@@ -4,7 +4,7 @@ title: 15 Must-Know Tips from Ellis and Brown's "Hacking Growth"
 author: Monty Hammontree
 ---
 
-![Book cover of Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success](/images/Hacking-Growth/Book-Cover.jpg){.image-left} 
+![Book cover of Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success](/images/Hacking-Growth/Book-Cover.jpg)
 
 I enjoyed reading [Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success](https://www.amazon.com/Hacking-Growth-Fastest-Growing-Companies-Breakout/dp/045149721X/ref=sr_1_4?s=books&ie=UTF8&qid=1534271354&sr=1-4&keywords=hacking+growth "Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success") by Ellis and Brown and I took many valuable lessons from it.  It easily made my top 5 list of all-time favorite professional books. 
  
