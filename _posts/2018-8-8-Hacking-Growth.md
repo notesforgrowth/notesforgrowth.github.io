@@ -103,7 +103,7 @@ It's important to identify all the steps in your customer's journey to the "must
 
 This simple equation can help us keep the two primary forces that shape our customer's journey through the funnel in mind:
 
-    <b>DESIRE - FRICTION = CONVERSION RATE</b>
+    DESIRE - FRICTION = CONVERSION RATE
 
 ### 14. NUX Conversion Trinity
 The authors put forth two simple rules or guidelines for designing and optimizing the new user experience (NUX) for your product or service.  Their first recommendation is to treat it as a product of its own.  One that warrants crafting its own special experience for it.  One benefit they cite of making it its own experience is that it makes it easier for the growth team to conduct experiments on this experience without having to manage inner dependencies with other aspects of the customer journey and without impacting the experience of current users. 
