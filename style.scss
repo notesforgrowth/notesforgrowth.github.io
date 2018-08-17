@@ -121,7 +121,11 @@ strong, b {
 }
 
 img {
-  /*max-width: 100%;*/
+  max-width: 100%;
+}
+
+.container img {
+  max-width: 50%;
   text-align: center;
 }
 
