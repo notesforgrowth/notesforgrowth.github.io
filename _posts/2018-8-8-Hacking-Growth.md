@@ -29,7 +29,6 @@ There's also a way to measure whether we've found our "must have" experience or 
 
 _"How dissapointed would you be if [product or feature] was not delivered?"_
  
-
 * **If 40+% of customers in our core market would be "very disappointed":** We have achieved "must have" status.
 
 * **If 25-40% of customers in our core market would be "very disappointed":** We need to either tweek our offereing or the language we use to describe it.
