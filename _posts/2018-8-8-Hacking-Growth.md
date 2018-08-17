@@ -4,11 +4,11 @@ title: 15 Must-Know Tips from Ellis and Brown's "Hacking Growth"
 author: Monty Hammontree
 ---
 
-![Book cover of Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success](/images/Hacking-Growth/Book-Cover.jpg)
-
 I enjoyed reading [Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success](https://www.amazon.com/Hacking-Growth-Fastest-Growing-Companies-Breakout/dp/045149721X/ref=sr_1_4?s=books&ie=UTF8&qid=1534271354&sr=1-4&keywords=hacking+growth "Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success") by Ellis and Brown and I took many valuable lessons from it.  It easily made my top 5 list of all-time favorite professional books. 
  
-The book is divided into two parts.  The first, introduces growth hacking (aka lean engineering) processes, the roles you need to fill on your team, and cultural keys for success.   The second, provides detailed tips and tricks for to how to effectively implement growth hacking across all phases of your customer funnel.   
+The book is divided into two parts.  The first, introduces growth hacking (aka lean engineering) processes, the roles you need to fill on your team, and cultural keys for success.   The second, provides detailed tips and tricks for to how to effectively implement growth hacking across all phases of your customer funnel.
+
+![Book cover of Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success](/images/Hacking-Growth/Book-Cover.jpg)
  
 I took away the following "15 big ideas" from the book all of which I've added to my toolbox and I am eagerly sharing with others.   
 
