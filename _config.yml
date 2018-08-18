@@ -83,6 +83,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - _drafts
   
 defaults:
   -
