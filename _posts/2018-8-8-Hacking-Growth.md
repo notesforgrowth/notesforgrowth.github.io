@@ -118,7 +118,7 @@ communicate relevance, show the value of the product, and provide a clear call t
 ### 15. When Exploring New Ideas For Growth Use ICE to Prioritize Them
 ICE, a simple acrostic is recommended as a way for teams to rate and then rank the best ideas they have for achieving a growth objective.  
 
-After working together to generate candidate ideas for growth Ellis and Brown recommend teams then rate the ideas on a ten point scale in terms of expected impact, confidence the idea will produce the expected result, and ease of implementing the idea. Impact, confidence, and ease translate into the achronymn ICE.  Armed with the initial rating teams then put all of their ideas as rows in a table and add the three scores into columns.  They then calcuate the average of the three columns and add the averages as a fourth column.  The average score is then used to stack rank all of the candidate ideas.  
+After working together to generate candidate ideas for growth teams are encouraged to then rate the ideas on a ten point scale in terms of expected impact, confidence the idea will produce the expected result, and ease of implementing the idea. Impact, confidence, and ease translate into the achronymn ICE.  Armed with the initial rating teams then put all of their ideas as rows in a table and add the three scores into columns.  They then calcuate the average of the three columns and add the averages as a fourth column.  The average score is then used to stack rank all of the candidate ideas.  
 
 One of the potential pitfalls of using a simple scoring approach like this is that some team members can put to much weight on the scores. Left unchecked this can lead to dogmatic reactions and infighting within the team.
 
