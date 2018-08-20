@@ -116,11 +116,11 @@ communicate relevance, show the value of the product, and provide a clear call t
 >"Relevance stands for how well the page matches the intent or desire of the visitor- is this what they came for?  Showing value is immediately answering the visitor's question 'What's in it for me?' clearly and concisely.  Lastly, the call to action provides a compelling next step for visitors to take."
 
 ### 15. When Exploring New Ideas For Growth Use ICE to Prioritize Them
-The authors decribe, ICE, a simple acrostic they use to help teams rate and then rank the best ideas they have for achieving a growth objective.  
+ICE, a simple acrostic is recommended as a way for teams to rate and then rank the best ideas they have for achieving a growth objective.  
 
-After cross-functional teams work together to generate candidate ideas for growth Ellis and Brown recommend they then rate the ideas on a ten point scale in terms of expected impact, confidence the idea will produce the expected result, and ease of implementing the idea. Impact, confidence, and ease translate into the achronymn ICE.  Armed with the initial rating teams then put all of their ideas as rows in a table and add the three scores into columns.  They then calcuate the averate of the three columns and add the averages as a fourth column.  The average score is then used to stack rank all of the candidate ideas.  
+After working together to generate candidate ideas for growth Ellis and Brown recommend teams then rate the ideas on a ten point scale in terms of expected impact, confidence the idea will produce the expected result, and ease of implementing the idea. Impact, confidence, and ease translate into the achronymn ICE.  Armed with the initial rating teams then put all of their ideas as rows in a table and add the three scores into columns.  They then calcuate the average of the three columns and add the averages as a fourth column.  The average score is then used to stack rank all of the candidate ideas.  
 
-One of the potential pitfalls of using a simple scoring approach like this is that some team members can put to much weight on the scores. Left unchecked can lead to dogmatic reactions and infighting within the team.
+One of the potential pitfalls of using a simple scoring approach like this is that some team members can put to much weight on the scores. Left unchecked this can lead to dogmatic reactions and infighting within the team.
 
 >"It is important that the team not get bogged down in trying to fine-tune the score too much.  The score is to be used for relative prioritization and will not be perfect....It's better for the team to use the score as a valued guide, rather than the be-all and end-all for test prioritization.  When there is uncertainty or concern about a score, the growth lead should use her best judgment and act decisively to keep the team moving.  "
 
