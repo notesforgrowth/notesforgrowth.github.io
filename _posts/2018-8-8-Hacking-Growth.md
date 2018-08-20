@@ -116,6 +116,6 @@ communicate relevance, show the value of the product, and provide a clear call t
 >"Relevance stands for how well the page matches the intent or desire of the visitor- is this what they came for?  Showing value is immediately answering the visitor's question 'What's in it for me?' clearly and concisely.  Lastly, the call to action provides a compelling next step for visitors to take."
 
 ### 15. When Exploring New Ideas For Growth Use ICE to Prioritize Them
-The authors share an acrostic they use to rate and then rank ideas for growth.  
+The authors share a simple acrostic they use to rate and then rank ideas for growth.  
 
 After working with teams to help them generate candidate ideas for growth they then have teams rate the ideas on a ten point scale in terms of expected impact, confidence the idea will produce the expected result, and ease of implementing the idea. They then put all of the ideas as rows in a table and add the three scores as columns.  They then calcuate the averate of the three columns and add the averages as a fourth column.  The average score is then used to stack rank all of the candidate ideas.  
