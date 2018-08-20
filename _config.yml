@@ -9,7 +9,7 @@ name: Notes for Growth
 description: Notes on Lean Engineering from the Developer Division at Microsoft
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/devdivuxr/devdivuxr.github.io/master/images/logo.png
+avatar: https://raw.githubusercontent.com/notesforgrowth/notesforgrowth.github.io/master/images/logo.png
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: devdivuxr/devdivuxr.github.io
+  github: notesforgrowth/notesforgrowth.github.io
   instagram:
   linkedin:
   pinterest:
@@ -39,12 +39,12 @@ disqus: devdiv-ux-research-blog
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
-# Your website URL (e.g. http://devdivuxr.github.io or http://www.devdivuxr.co)
+# Your website URL (e.g. http://notesforgrowth.github.io or http://www.notesforgrowth.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://devdivuxr.github.io/
+url: https://notesforgrowth.github.io/
 # If you're hosting your site at a Project repository on GitHub pages
-# (http://devdivuxr.github.io/repository-name)
-# and NOT your User repository (http://devdivuxr.github.io)
+# (http://notesforgrowth.github.io/repository-name)
+# and NOT your User repository (http://notesforgrowth.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
@@ -92,7 +92,7 @@ defaults:
       type: pages
     values:
       layout: page
-      author: devdivuxr
+      author: notesforgrowth
       commenting: open
   -
     scope:
@@ -100,7 +100,7 @@ defaults:
       type: posts
     values:
       layout: post
-      author: devdivuxr
+      author: notesforgrowth
       commenting: open
 
 emptyArray: []
