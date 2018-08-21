@@ -18,7 +18,7 @@ Marketing and engineering typically focus on different activities and outcomes. 
 One of the prerequisites, that the authors call out for effective "growth hacking", is to pull in team members from across disciplinary boundaries.  These cross-functional teams are most effective when they collaborate across all phases of their customer lifecycle funnel.
 
 ### 2. Must-Have Experiences
-Very often "growth hacking" teams start out with one idea as to what their "must-have" experience is only to have customer data revel it is something very different than they originally assumed.  As noted above, the keys to driving growth are to understand what your "core value" is or should be for your "core market" and "why".  
+Very often "growth hacking" teams start out with one idea as to what their "must-have" experience is only to have customer data revel it is something very different than they originally assumed.  The keys to driving growth are to understand what your "core value" is or should be for your "core market" and "why".  
 
 Achieving product/market fit is when you align your "must have" experience to your core market.
 
