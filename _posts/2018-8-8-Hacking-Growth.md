@@ -46,7 +46,7 @@ If teams measure what's going on using quantitative experiments they also need t
 
 It is the combination of user characteristics and behavioral differences that provides the landscape for identifying distinctive groups or customer segments within which to "probe" for areas of growth opportunity.  Identifying the segments for which the core value of your product is best suited is critical to being able to run experiments that have sufficient sensitivity to drive iterative user experience improvements that will fuel growth.
 
-User segmentation or cohort analysis can be particularly useful when analyzing retention rate.   The emphasis how it, "allows you to probe more deeply to make discoveries about why those who are staying are doing so - and why others are not".
+User segmentation or cohort analysis can be particularly useful when analyzing retention rate.   It, "allows you to probe more deeply to make discoveries about why those who are staying are doing so - and why others are not".
   
 One specific form of cohort analysis is to track customers by their initial acquisition date.
 
