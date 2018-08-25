@@ -55,7 +55,7 @@ Jobs had listened and observed the market and had interpreted a new meaning for 
 
 When the 1st generation iPod shipped, it came in 5GB or 10GB storage options.
 
-This was because the iPod used a hard drive that was originally designed for laptop computers. Jobs had interpreted a new meaning for this new hard drive and worked with manufacturers to enable its use his iPod. This move allowed Jobs to claim that the iPod was the first digital music player that allowed, "a thousand songs in your pocket," which became an important differentiation.
+This was because the iPod used a hard drive that was originally designed for laptop computers. Jobs had interpreted a new meaning for this new hard drive and worked with manufacturers to enable its use with his vision for the iPod. This move allowed Jobs to claim that the iPod was the first digital music player that allowed, "a thousand songs in your pocket," which became an important differentiation.
 
 With the success of the iPod, Apple was able to then propose new meanings to customers on how they should manage their digital content. The MacBook, iMac, iTunes, iPhoto, iMovie, and iPod became tools that helped you manage and share your digital lifestyle. These were more than a technology substitutions, these were technology _epiphanies_.
 
