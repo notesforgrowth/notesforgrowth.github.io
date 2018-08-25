@@ -88,7 +88,7 @@ Formulating assumptions into hypotheses and testing those hypotheses by proposin
 
 However, companies should deploy these efforts within the design discourse. Not with their existing customers.
 
-**Companies should perform rapid experimentation with influencers and use customer-driven artifacts (e.g. hypotheses, discussion guides, concept value tests, sensemaking, etc.) to drive their participation within the design discourse.**
+**Companies should perform rapid experimentation with Interpreters and use customer-driven artifacts (e.g. hypotheses, discussion guides, concept value tests, sensemaking, etc.) to drive their participation within the design discourse.**
 
 Proposing new meanings within the design discourse is a great way to check your assumptions about the potential of new market opportunities. It also positions your company as a leader driving future developments, rather than a observer responding to market trends.
 
