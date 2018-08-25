@@ -27,6 +27,8 @@
   text-align:center;
   color: #6f6f6f;
   font-size: 16px;
+  display:block;
+  margin-top:4px;
 }
 
 /**************/
@@ -273,12 +275,8 @@ nav {
     border-left: 2px solid #5C2D91;
     padding: 0.1em 1em;
     background-color: #FCF8FF;
-    color:#5C2D91;
-    font-size: 15px;
+    color:#5C2D91;    
     /*font-style: italic;*/
-    p {
-      margin:0px 2px 0px 2px;
-    }
   }
 
   .comments {
