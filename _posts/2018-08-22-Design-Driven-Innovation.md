@@ -30,7 +30,7 @@ However, it should be noted that Veraganti is not suggesting companies remove cu
 ### The Power of Interpreters
 Apple's popular, long-time, manifesto perfectly describes the Interpreter:
 
->“Here’s to the crazy ones, the misfits, the rebels, the troublemakers, the round pegs in the square holes… The ones who see things differently — they’re not fond of rules… You can quote them, disagree with them, glorify or vilify them, but the only thing you can’t do is ignore them because they change things… They push the human race forward, and while some may see them as the crazy ones, we see genius, because the ones who are crazy enough to think that they can change the world, are the ones who do.”
+>Here’s to the crazy ones, the misfits, the rebels, the troublemakers, the round pegs in the square holes… The ones who see things differently — they’re not fond of rules… You can quote them, disagree with them, glorify or vilify them, but the only thing you can’t do is ignore them because they change things… They push the human race forward, and while some may see them as the crazy ones, we see genius, because the ones who are crazy enough to think that they can change the world, are the ones who do.
 
 Steve Jobs brought the iPod to market and, not only saved Apple, but completely re-defined the meaning of music. He was able to interpret industry signals and envision the future of digital music.
 
