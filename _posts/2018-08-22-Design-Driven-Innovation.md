@@ -28,7 +28,7 @@ Veraganti challenges companies to invest in radical innovation of meanings. He d
 
 >If a company tests a breakthrough change in meaning by relying on a typical focus group, people will search for what they already know. And they will not find it in a product that is radically innovative, unless they encounter it in the right scenario.
 
-However, it should be noted that Veraganti is not suggesting companies remove customers from the equation. Rather, the "customer" you're looking to collect feedback from is actually an _interpreter_.
+However, it should be noted that Veraganti is not suggesting companies remove customers from the equation. Rather, the "customer" you're looking to collect feedback from is actually an _Interpreter_.
 
 ### The Power of Interpreters
 Apple's popular, long-time, manifesto perfectly describes the Interpreter:
