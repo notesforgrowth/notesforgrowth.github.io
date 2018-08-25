@@ -81,7 +81,7 @@ In order to drive at radical innovation, companies must discover and participate
 
 Jobs, of course, was a strong interpreter who infused radical innovation as part of Apple's operating DNA. Customers now look to Apple to define new meanings. With the introduction of smartphones, Apple was once again able to propose a new meaning with the iPhone.
 
-### Using Customer-Driven Methods with Influencers
+### Applying Customer-Driven Methods Within the Design Discourse
 It is not that Lean customer-driven behaviors "fail" when trying to define new markets; it's that they cannot be applied to your _current customers_.
 
 Formulating assumptions into hypotheses and testing those hypotheses by proposing and quickly iterating on concepts are still key behaviors when developing new market opportunities.
