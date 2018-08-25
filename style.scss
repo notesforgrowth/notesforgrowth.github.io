@@ -24,7 +24,6 @@
 }
 
 .caption {
-  max-width: 740px;
   text-align:center;
   color: #6f6f6f;
   font-size: 16px;
@@ -87,7 +86,7 @@ h4 {
 }
 
 p {
-  margin: 15px 0;
+  margin: 15px 0;  
 }
 
 a {
@@ -274,10 +273,12 @@ nav {
     border-left: 2px solid #5C2D91;
     padding: 0.1em 1em;
     background-color: #FCF8FF;
-    color:$gray;
-    font-size: 22px;
-    padding:4px;
+    color:#5C2D91;
+    font-size: 15px;
     /*font-style: italic;*/
+    p {
+      margin:0px 2px 0px 2px;
+    }
   }
 
   .comments {

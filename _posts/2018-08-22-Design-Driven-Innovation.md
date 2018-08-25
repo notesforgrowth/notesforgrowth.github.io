@@ -38,9 +38,10 @@ There were other competitors in the space at the time. The Diamond Rio and Creat
 
 However, Jobs understood that current solutions were just _technology substitutions_; they were offering the same meaning (e.g. listening to music on the go), but just replacing the technology (e.g. instead of a CD walkman, an .mp3 player). They had many of the same limitations. For example, the [Diamond Rio PMP300](https://en.wikipedia.org/wiki/Rio_PMP300, "Diamond Rio PMP300") was much smaller than a CD walkman and removed the constraint of having to carry around a bunch of CDs, but it still could only hold about 30 minutes (32 MB) of music. Additionally, acquiring new digital music was left to partners like Music Match and Goodnoise. Software was considered a means to get digital content onto the player, not central to the entire experience of listening to music.
 
-![Older gentleman speaking to the DevDiv product team](/images/Design-Driven-Innovation/Rio_pmp300.jpg)
-
-<span class="caption">The Diamond Rio PMP300</span>
+<p style="text-align: center">
+    <img src="/images/Design-Driven-Innovation/Rio_pmp300.jpg" />
+    <span class="caption">The Diamond Rio PMP300</span>
+</p>
 
 Jobs had listened and observed the market and had interpreted a new meaning. Customers needed a complete experience when dealing with music. He interpreted that what was needed in the market was an entire ecosystem that:
 
