@@ -14,9 +14,11 @@ The root of this question is simple. How can a team be forward-thinking or radic
 That's the premise of [Design Driven Innovation: Changing the Rules of Competition by Radically Innovating What Things Mean](https://www.amazon.com/Design-Driven-Innovation-Competition-Innovating/dp/1422124827/ref=sr_1_3?ie=UTF8&qid=1534978069&sr=8-3&keywords=design-driven+innovation, "Design Driven Innovation: Changing the Rules of Competition by Radically Innovating What Things Mean") by Roberto Veraganti.
 
 ### Every Product Has Meaning
-Veraganti proposes that people do not buy products, they buy _meanings_. This is the major point of his thesis.
+A major theme in the book is that people do not buy products, they buy _meanings_. This notion is quite similar to the ethos behind <a href="https://www.youtube.com/watch?v=Q63PZR7mG70">Clayton Christensen's "Jobs to Be Done" framework</a>.
 
-[Clayton Christenson's Job to Be Done]
+Essentially, Veraganti claims that customers "buy and use products for deep reasons, often not manifest, that include both functional utility and intangible psychological satisfaction".
+
+When Veraganti refers to design, he's clear that he does not mean style and form. In this book, the term design is reserved for 
 
 ### The Challenge with User-Centered Design 
 Veraganti challenges companies to invest in radical innovation of meaning. He doesn't believe that companies can achieve radical innovation by simply asking customers for feedback on existing products.
@@ -34,15 +36,22 @@ Steve Jobs brought the iPod to market and, not only saved Apple, but completely 
 
 There were other competitors in the space at the time. The Diamond Rio and Creative's Nomad player. These players certainly captured early adopters' attention and had the first mover's advantage.
 
-However, Jobs understood that current solutions were just _technology substitutions_; they were offering the same meaning (e.g. listening to music on the go), but replacing the technology (e.g. instead of a CD walkman, an .mp3 player). 
+However, Jobs understood that current solutions were just _technology substitutions_; they were offering the same meaning (e.g. listening to music on the go), but just replacing the technology (e.g. instead of a CD walkman, an .mp3 player). They had many of the same limitations. For example, the [Diamond Rio PMP300](https://en.wikipedia.org/wiki/Rio_PMP300, "Diamond Rio PMP300") was much smaller than a CD walkman and removed the constraint of having to carry around a bunch of CDs, but it still could only hold about 30 minutes (32 MB) of music. Additionally, acquiring new digital music was left to partners like Music Match and Goodnoise. Software was considered a means to get digital content onto the player, not central to the entire experience of listening to music.
 
-Jobs had listened and observed the market and had interpreted a new meaning. Customers needed a complete experience when dealing with music. They needed an easy way to convert their existing music to digital format, they needed an inexpensive way to purchase new digital music, and some even needed a way to _produce_ digital music.
+![Older gentleman speaking to the DevDiv product team](/images/Design-Driven-Innovation/Rio_pmp300.jpg)
 
-That's why the iPod shipped within an ecosystem of iTunes, the iTunes store, and Garage Band.
+<span class="caption">The Diamond Rio PMP300</span>
 
-Current players had clunky software and awkward workflows. Additionally, there wasn't an easy way to purchase digital music and sync it directly to the player.
+Jobs had listened and observed the market and had interpreted a new meaning. Customers needed a complete experience when dealing with music. He interpreted that what was needed in the market was an entire ecosystem that:
 
-Jobs changed the meaning of a digital music player to be that of a digital music _library manager_. In fact, Apple's entire product strategy had a new meaning. The MacBook, iMac, iTunes, iPhoto, iMovie, and iPod became tools that helped you "manage your digital lifestyle." This was more than a technology substitution, the introduction of the iPod represented a technology _epiphany_.
+* Assisted customers in converting their existing music to a high-quality digital format.
+* Enabled customers to purchase new digital music, legally, and inexpensively.
+* Allowed for management of digital music libraries, both on the the computer and the iPod
+* Leveraged the latest in storage technology to allow as more songs to be stored on a single device.
+
+When the 1st generation iPod shipped, it carried either a 5GB or 10GB hard drive that was originally designed for laptop computers. Jobs had interpreted a new meaning for the technology and worked with manufacturers to enable for use in the iPod. This move allowed Jobs to claim that the iPod was the first digital music player that allowed, "a thousand songs in your pocket."
+
+With the iPod, Apple was positioned to propose new meanings to customers on how they should manage their digital content. The MacBook, iMac, iTunes, iPhoto, iMovie, and iPod became tools that helped you "manage your digital lifestyle." These were more than a technology substitutions, these were technology _epiphanies_.
 
 ### Leveraging a Network of Interpreters
 Veraganti isn't proposing that companies must find a sole Interpreter to help them achieve radical innovation of meaning. In fact, it's quite the opposite.
@@ -52,17 +61,27 @@ He encourages companies to build a network of Interpreters. To seek out those th
 With the iPod, Jobs enabled Veraganti's 3 phases of participating in the design discourse: interpreting: Listening, Interpreting, and Addressing.
 
 #### Listening
-Accessing knowledge about possible meanings and languages of new products.
+<span style="margin-left:10px">Accessing knowledge about possible meanings and languages of new products.</span>
 
 #### Interpreting
-Generating your own vision and proposals for new meanings and languages.
+<span style="margin-left:10px">Generating your own vision and proposals for new meanings and languages.</span>
 
-### Addressing
-Diffusing your vision to other Interpreters.
-
-With the iPod, Jobs was listening to developments in smaller hard drive technologies. He was interpreting a new meaning for these drives (using them for a music player, instead of a laptop computer). Finally, he communicated that vision with hard drive pioneers by detailing specifications that would be required to make a small hard drive work in a music player.
+#### Addressing
+<span style="margin-left:10px">Diffusing your vision to other Interpreters.</span>
 
 Apple was not only listening to the discourse of mobile hard drive development, they were _influencing it_.
 
+In order to drive at radical innovation, companies must discover and participate in the design discourse that influences their business strategy. They must seek key influencers and engage them before their competitors do.
+
 ### Using Customer-Driven Methods with Influencers
-[This is where we drive home the point that rapid iteration and experimentation are not thrown out, just because you're trying to identify new markets. ]
+Therefore, it is not that Lean customer-driven behaviors "fail" when trying to define new markets; it's that they cannot be applied to your _current customers_.
+
+Formulating assumptions into hypotheses and testing those hypotheses by proposing and quickly iterating on concepts are still key behaviors when developing new market opportunities.
+
+However, companies should deploy these efforts within the design discourse. Not with their existing customers.
+
+**They should perform rapid experimentation with influencers and use customer-driven artifacts (e.g. hypotheses, discussion guides, concept value tests, sensemaking, etc.) to drive their participation within the design discourse.**
+
+Proposing new meanings within the design discourse is a great way to check your assumptions about the potential of new market opportunities. It also positions your company as a leader driving future developments, rather than a observer responding to market trends.
+
+Veraganti gives many more examples of companies, just like Apple, that have defined completely new markets because of their ability to partner with influences, integrate themselves within the design discourse, and diffuse their vision within those communities.
