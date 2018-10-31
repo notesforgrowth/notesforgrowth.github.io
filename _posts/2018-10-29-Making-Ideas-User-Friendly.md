@@ -27,7 +27,7 @@ Roam introduces the idea of <i>Vivid Thinking</i>, a way to translate words into
 <br>
 
 Roam gives us three tools to ensure our writing is free of the three blahs (boring, foggy, and misleading)<br>
-
+<img src="/images/Design-Driven-Innovation/Rio_pmp300.jpg" />
 ## Tool #1: The Blah Blahmeter
 The Blah-Blahmeter chart
 <br>
@@ -37,7 +37,6 @@ The Blah-Blahmeter chart
 </p> 
 <br>
 <i> Visualization of the Blah-Blahmeter: A tool for Vivid Thinking</i>
-</ul>
 <br>
 Business meetings often fall into the right side of the chart more often than the left. Rarely does a meeting provide clear and simple ideas. Throughout the book, Roam provides examples of clear and concise (Dr. Seuss) and misleading and rotten (Bernie Madoff describing his business model).
 <br><br>
