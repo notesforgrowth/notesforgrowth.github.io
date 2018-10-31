@@ -43,10 +43,10 @@ Using visuals, we can simply our ideas to the core.
 
 ## Tool #2: The Vivid Grammar Graph
 According to Roam, all ideas can be expressed by using a few short rules. 
-<p style="text-align: center">
+<p style="text-align:center">
 <img src="/images/Blah_images/vivid_grammar.jpg" />
-<span class="caption">Vivid Grammar</span>
-</p> 
+<span class="caption">Vivid Grammar</span>
+</p>
 The Vivid Grammar Graph acts as a visual translator for ideas. To use the Vivid Grammar graph, first, we must reduce our idea to the basics of grammar. Using the graph, we can draw simple illustrations that show our ideas.
 
 ## Tool #3. The Vivid F.O.R.E.S.T.
