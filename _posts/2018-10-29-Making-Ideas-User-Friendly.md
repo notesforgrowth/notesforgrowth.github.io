@@ -31,7 +31,7 @@ Roam gives us three tools to ensure our writing is free of the three blahs (bori
 ## Tool #1: The Blah Blahmeter
 <p style="text-align:center">
 <img src="/images/Blah_images/blah.PNG" />
-<span style="caption">Visualization of the Blah-Blahmeter: A tool for Vivid Thinking</span>
+<span class="caption">Visualization of the Blah-Blahmeter: A tool for Vivid Thinking</span>
 </p>
 
 Business meetings often fall into the right side of the chart more often than the left. Rarely does a meeting provide clear and simple ideas. Throughout the book, Roam provides examples of clear and concise (Dr. Seuss) and misleading and rotten (Bernie Madoff describing his business model).
