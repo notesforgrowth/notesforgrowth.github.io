@@ -27,12 +27,12 @@ Roam introduces the idea of <i>Vivid Thinking</i>, a way to translate words into
 <br>
 
 Roam gives us three tools to ensure our writing is free of the three blahs (boring, foggy, and misleading)<br>
-<img src="/images/Design-Driven-Innovation/Rio_pmp300.jpg" />
+<img src="/images/Blah_images/blah.PNG" />
 ## Tool #1: The Blah Blahmeter
 The Blah-Blahmeter chart
 <br>
 <p style="text-align: center">
-<img src="/images/Blah_images/blah.PNG" />
+
 <span class="caption">The Blah Blahmeter</span>
 </p> 
 <br>
