@@ -30,7 +30,10 @@ Roam gives us three tools to ensure our writing is free of the three blahs (bori
 ## Tool #1: The Blah Blahmeter
 The Blah-Blahmeter chart
 <br>
-![](2018-10-29-13-49-33.png)
+<p style="text-align: center">
+<img src="/images/Blah_images/blah.PNG" />
+<span class="caption">The Blah Blahmeter</span>
+</p> 
 <br>
 <i> Visualization of the Blah-Blahmeter: A tool for Vivid Thinking</i>
 </ul>
@@ -46,7 +49,10 @@ Using visuals, we can simply our ideas to the core.
 According to Roam, all ideas can be expressed by using a few short rules. 
 
 
-![](2018-10-29-13-51-57.png)
+<p style="text-align: center">
+<img src="/images/Blah_images/vivid_grammar.jpg" />
+<span class="caption">Vivid Grammar</span>
+</p> 
 <br>
 
 The Vivid Grammar Graph acts as a visual translator for ideas. To use the Vivid Grammar graph, first, we must reduce our idea to the basics of grammar. Using the graph, we can draw simple illustrations that show our ideas.
@@ -64,7 +70,10 @@ Finaly, the Vivid F.O.R.E.S.T provides us with the ability to ensure our ideas c
 -Targeted: Is the idea targeted?<br>
 </ul>
 
-![](2018-10-29-13-50-53.png)
+<p style="text-align: center">
+<img src="/images/Blah_images/vivid_forest.jpg" />
+<span class="caption">Vivid Forest</span>
+</p> 
 
 ## Takeaways
 <br>
