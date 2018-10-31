@@ -1,8 +1,8 @@
-
 ---
 layout: post
 title: Making Ideas User-Friendly
 author: Julie Stuart
+---
 
 This is a review of [Blah Blah Blah: What To Do When Words Don't Work](https://www.amazon.com/Blah-What-When-Words-Dont/dp/1591844592?crid=1DDDYJ6L7AUS1&keywords=blah+blah+blah+what+to+do+when+words+don%27t+work&qid=1540827825&s=Books&sprefix=blah+blah+blah+what+to+do%2Caps%2C197&sr=1-1-fkmrnull&ref=sr_1_fkmrnull_1).
 <br><br>
