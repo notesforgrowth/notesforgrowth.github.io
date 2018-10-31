@@ -29,11 +29,9 @@ Roam introduces the idea of <i>Vivid Thinking</i>, a way to translate words into
 Roam gives us three tools to ensure our writing is free of the three blahs (boring, foggy, and misleading)<br>
 
 ## Tool #1: The Blah Blahmeter
-The Blah-Blahmeter chart
-<br>
 <p style="text-align: center">
 <img src="/images/Blah_images/blah.PNG" />
-<span class="caption">The Blah Blahmeter</span>
+<span class="caption">The Blah Blahmeter chart</span>
 </p> 
 <br>
 <i> Visualization of the Blah-Blahmeter: A tool for Vivid Thinking</i>
@@ -47,8 +45,6 @@ Using visuals, we can simply our ideas to the core.
 
 ## Tool #2: The Vivid Grammar Graph
 According to Roam, all ideas can be expressed by using a few short rules. 
-
-
 <p style="text-align: center">
 <img src="/images/Blah_images/vivid_grammar.jpg" />
 <span class="caption">Vivid Grammar</span>
@@ -60,7 +56,6 @@ The Vivid Grammar Graph acts as a visual translator for ideas. To use the Vivid 
 <br>
 
 ## Tool #3. The Vivid F.O.R.E.S.T.
-<br>
 Finaly, the Vivid F.O.R.E.S.T provides us with the ability to ensure our ideas clear, simple, and memorable. F.O.R.E.S.T. provides a checklist:<br><br>
 <ul>-Form: Does the idea have form?<br>
 -Only Essentials: Has the idea been distilled its essence?<br>
@@ -76,9 +71,8 @@ Finaly, the Vivid F.O.R.E.S.T provides us with the ability to ensure our ideas c
 </p> 
 
 ## Takeaways
-<br>
 What can we take away from Vivid Thinking?
-<br><ul>
+<br>
 1. Ideas should be straight forward and simple <br>
 2. Ideas CAN be conveyed with text AND visuals <br>
 3. Ideas SHOULD be conveyed with text and visuals <br>
