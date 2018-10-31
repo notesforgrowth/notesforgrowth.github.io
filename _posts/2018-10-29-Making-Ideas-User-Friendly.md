@@ -59,10 +59,10 @@ Finaly, the Vivid F.O.R.E.S.T provides us with the ability to ensure our ideas c
 * Span differences: Does the idea account for opposites?
 * Targeted: Is the idea targeted?
 
-<p style="text-align: center">
+<p style="text-align:center">
 <img src="/images/Blah_images/vivid_forest.jpg" />
-<span class="caption">Vivid Forest</span>
-</p> 
+<span class="caption">Vivid Forest</span>
+</p>
 
 ## Takeaways
 What can we take away from Vivid Thinking?
