@@ -50,7 +50,7 @@ According to Roam, all ideas can be expressed by using a few short rules.
 
 
 <p style="text-align: center">
-<img src="/images/Blah_images/vivid_grammar.jpg" />
+<img src="/images/Blah_images/vivid_grammar.jpg" />
 <span class="caption">Vivid Grammar</span>
 </p> 
 <br>
@@ -71,7 +71,7 @@ Finaly, the Vivid F.O.R.E.S.T provides us with the ability to ensure our ideas c
 </ul>
 
 <p style="text-align: center">
-<img src="/images/Blah_images/vivid_forest.jpg" />
+<img src="/images/Blah_images/vivid_forest.jpg" />
 <span class="caption">Vivid Forest</span>
 </p> 
 
