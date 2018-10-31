@@ -38,7 +38,7 @@ Business meetings often fall into the right side of the chart more often than th
 <br><br>
 But what do I do if my idea is boring, foggy, or misleading?
 <br>
-Using visuals, we can simply our ideas to the core. 
+Using visuals, we can simplify our ideas to the core. 
 <br>
 
 ## Tool #2: The Vivid Grammar Graph
