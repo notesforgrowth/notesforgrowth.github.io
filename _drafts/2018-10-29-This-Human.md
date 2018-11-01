@@ -7,40 +7,26 @@ author: JP Carrascal
 _This Human_ is a design book that is not about design but about the _designer_. The book shifts focus from business goals and design technique and puts the desiner---the human, the person---in the spotlight.
 It discusses several aspects of the designer's role, reflecting upon the mindset, attitude and behaviors that lead to improving outcome and that make the designer's job easier and more pleasant.
 
-The book embraces playfulness, imagination, emotion and other human features that (according to the author) should be nurtured in order to create compelling and meaningful design. The book also deals with biases and blockers that potentially hinder the designer's job at different stages, and suggests methods for overcoming them.
+The book embraces playfulness, imagination, emotion and other human features that (according to the author) should be nurtured in order to create compelling and meaningful design. The book also addresses biases and blockers that potentially hinder the designer's job at different stages, and suggests methods for overcoming them.
 
-The book is organized into 7 sections that, according to the Dr. Senova ("how to use this book" section, page xi), go from the most abstract to the most pragmatic. I see these as the designer's journey, in which the main learnings of those sections follow the flow of information through the designer's head. I will explain this next.
+## Keep your mind open
 
+Biases (including those derived from our own beliefs) obscure our vision and makes it difficult for a designer to distill insights from findings or results. Self-awareness and self-criticism are necessary to overcome biases and seeing beyond our preconceptions.
 
-# Convergence and Divergence
-In the designer's head ther is an interplay between subjectivity and objectivity. This interplay could be illustrated as an instance of the [converge-diverge pattern](https://www.designcouncil.org.uk/sites/default/files/asset/document/ElevenLessons_Design_Council%20(2).pdf, "A study of the design process") often used for illustrating the design thinking process, but applied to the designer's mental processes. Divergence is the openness to ideas and emotions and Divergence becomes communication and delivery of results from the design process.
+(This is mainly discussed in the _Insights_ section but the idea permeates the whole book.)
 
+## Empathy, compassion, and listening are key.
 
+Design is done by humans for humans. Having a _connection_ with those we are designing for makes it possible to understand their context and needs. Designers should not only make sure they are paying attention to people's practical needs but also to their _emotions_ to create a strong connection. 
 
-# Information Flow
+## Don't be afraid to explore
 
+While biases limit our vision, imagination and emotion enhances it, as they allow to create multiple possible paths to solve a problem (the possible futures). We should let ourselves ride free as creative minds and beating hearts to explore the limitless world of ideas---the right one could be hiding anywhere. This is alike the Diverge phase in the [converge-diverge pattern](https://www.designcouncil.org.uk/sites/default/files/asset/document/ElevenLessons_Design_Council%20(2).pdf, "A study of the design process") often used for illustrating the design thinking process.
+(Discussed in the _Envision_ and _Emotion_ sections.)
 
+## Trust yourself to find the solution
 
-# Inside the Designer's Head
+Intent
 
+## Get the wheels in motion
 
-
-## Insight
-This is the chapter that more strongly focuses on how to overcome cognitive biases. The reasoning is that biases (including those derived from our own beliefs) obscure our vision and makes it difficult for a designer to distill insights from findings or results. Self-awareness and self-criticism are necessary to overcome biases and seeing beyond our preconceptions.
-
-## Emotion
-
-
-
-# Processing
-
-## Envision
-Imagination
-## Intention
-
-# Cutput
-
-## Expression
-## Connection
-
-## Delivery
