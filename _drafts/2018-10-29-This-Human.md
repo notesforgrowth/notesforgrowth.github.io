@@ -4,6 +4,12 @@ title: This Human. How to be the person designing for other people. By Melis Sen
 author: JP Carrascal
 ---
 
+
+<p style="text-align:center">
+<img src="/images/This-Human/this_human.jpg" />
+<span class="caption">This Human&mdash;book sections.</span>
+</p>
+
 _This Human_ is a design book that is not about design but about the _designer_. The book shifts focus from business goals and design technique and puts the desiner&mdash;the human, the person&mdash;in the spotlight.
 It discusses several aspects of the designer's role, reflecting upon the mindset, attitude and behaviors that lead to improving outcomes and that make the designer's job easier and more pleasant.
 
