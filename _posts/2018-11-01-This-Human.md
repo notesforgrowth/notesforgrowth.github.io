@@ -31,7 +31,7 @@ Design is done by humans for humans. Having a _connection_ with those we are des
 
 ## Diverge
 
-While biases limit our vision, imagination and emotion enhances it, as they allow to create multiple possible paths to solve a problem (the possible [futures](https://dl.acm.org/citation.cfm?id=3025453.3025658, "Evaluation of Prototypes and the Problem of Possible Futures"). We should let ourselves ride free as creative minds and beating hearts to explore the limitless world of ideas&mdash;the right one could be hiding anywhere. This is alike the Diverge phase in the [diverge-converge pattern](https://www.designcouncil.org.uk/sites/default/files/asset/document/ElevenLessons_Design_Council%20(2).pdf, "A study of the design process") often used for illustrating the design thinking process. The Converge phase comes next.
+While biases limit our vision, imagination and emotion enhances it, as they allow to create multiple possible paths to solve a problem (the [possible futures](https://dl.acm.org/citation.cfm?id=3025453.3025658, "Evaluation of Prototypes and the Problem of Possible Futures")). We should let ourselves ride free as creative minds and beating hearts to explore the limitless world of ideas&mdash;the right one could be hiding anywhere. This is alike the Diverge phase in the [diverge-converge pattern](https://www.designcouncil.org.uk/sites/default/files/asset/document/ElevenLessons_Design_Council%20(2).pdf, "A study of the design process") often used for illustrating the design thinking process. The Converge phase comes next.
 
 ## Converge
 
