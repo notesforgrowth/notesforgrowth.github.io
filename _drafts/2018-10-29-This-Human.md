@@ -6,7 +6,7 @@ author: JP Carrascal
 
 
 <p style="text-align:center">
-<img src="/images/This-Human/this_human.jpg" />
+<img src="/images/This-Human/this_human.jpg" style="width:80%;"/>
 <span class="caption">This Human&mdash;book sections.</span>
 </p>
 
