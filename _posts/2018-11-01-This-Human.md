@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This Human. How to be the person designing for other people. By Melis Senova, PhD.
+title: This Human - a brief review.
 author: JP Carrascal
 ---
 
