@@ -17,7 +17,7 @@ In [The Myths of Innovation](https://www.amazon.com/Myths-Innovation-Scott-Berku
  
 **Myth #4: People love new ideas.** In truth, people are naturally resistant to new ideas. Humans are a conservative species and avoiding risk is in our biology. Established companies would rather stick with what they know and what has led to their success than try something new with risk of failure. Conversely, a new startup company has not had success yet and is willing to take risk to try to get it. An established company spent years building themselves up based on their own initial startup risk-taking and innovation, and now they don’t want to endanger their success to charge into the unknown once again. For example, Larry Page and Sergey Brin tried to sell the new search engine Google to the established leading search engine Yahoo for $1 million dollars in 1998, and Yahoo declined. You know how the rest of the story went.
 
-&nbsp;&nbsp;&nbsp;**Factors that can influence how quickly an innovation spreads:**
+**Factors that can influence how quickly an innovation spreads:**
 1.	**Relative advantage.** What value does the new thing have compared to the old? This is perceived advantage, determined by the potential customer of the innovation, not its inventors. Perceived advantage is built on many factors that include economics, convenience, fashion, and satisfaction. 
 2.	**Compatibility.** How much effort is required to transition from the current thing to the innovation? If this cost is greater than the relative advantage, most people won’t try the innovation. These costs include not just technological compatibility but also people’s values and beliefs, finances, and habits. 
 3.	**Complexity.** How much learning is required to apply the innovation? The smaller the perceived gap, the higher the rate of acceptance. 
@@ -32,7 +32,7 @@ In [The Myths of Innovation](https://www.amazon.com/Myths-Innovation-Scott-Berku
 
 ![Early computer that takes up an entire room and looks very complex to operate](/images/The-Myths-of-Innovation/4.png)
 
-&nbsp;&nbsp;&nbsp;**Techniques that can lead to an innovation:**
+**Techniques that can lead to an innovation:**
 1.	**Generate many ideas.** You can’t know which ideas will prove useful or will provide a jumping-off point for other ideas. A small group could come up with 50 to 100 ideas within an hour.
 2.	**Aim for wild ideas.** By encouraging unorthodox thinking, you can let people’s imaginations fly and overcome their natural fear of suggesting something wrong or foolish. This will help unleash ideas that could be held back.
 3.	**Build on each other’s ideas.** Combine ideas in various ways or use an idea as a jumping-off place for a new idea. By starting the fire, another person can build it up. 
@@ -40,7 +40,7 @@ In [The Myths of Innovation](https://www.amazon.com/Myths-Innovation-Scott-Berku
  
 **Myth #7: Your boss knows more about innovation than you.** Innovations always threaten someone in power and its human nature to protect what they’ve accomplished. The office is a difficult place to nurture innovative thinking. Management techniques are typically designed to foster a smooth, efficient workflow, not to shake things up. To promote innovation, instead of rote production, a manager should foster an environment that encourages creativity and experimentation.
  
-&nbsp;&nbsp;&nbsp;**Work environments that can nurture an innovation:**
+**Work environments that can nurture an innovation:**
 1.	**Cultivate ideas.** The manager should take steps to ensure a continuous flow of ideas. People shouldn’t be afraid to express their thoughts, and no one should squish ideas before they’re investigated.
 2.	**Establish a conducive space.** The physical attributes of the workplace contribute to the process. An open team room space and toys create a fun and adventurous atmosphere. Google has a 10% personal project time.
 3.	**Support people.** Managers must provide cover for their innovators, shielding them from others who fear change.
@@ -51,7 +51,7 @@ In [The Myths of Innovation](https://www.amazon.com/Myths-Innovation-Scott-Berku
  
 **Myth #9: The best ideas win.** Success doesn’t necessarily come from being the “best” solution to a problem. Circumstances in the environment of a certain time and place such as culture, politics, and economics have tremendous influence on why one idea wins, yet these details are more complex than we want to hear and fade from history. The quality of an idea is only a part of the reason an innovation becomes successful. 
  
-&nbsp;&nbsp;&nbsp;**Barriers that an innovation must overcome to win:**
+**Barriers that an innovation must overcome to win:**
 1.	**Culture.** Cultural values and norms can block the path of innovation. For example, the Chinese invented firearms before Europeans. However, the firearms did not catch on, because their culture viewed traditional weapons such as the sword as more honorable.
 2.	**Dominance.** Sometimes an innovation gets established because it was part of another popular innovation. The QWERTY keyboard became the dominant keyboard because of the popularity of typewriters. Although the Dvorak keyboard has been shown to be more efficient, the barrier of making everyone learn a new keyboard is too high.
 3.	**Tradition.** Replacing a system that has been in use a long time can be difficult, particularly if people are comfortable with it. This barrier is a reason for Americans’ reluctance to switch to the metric system of measurement.
