@@ -38,23 +38,35 @@ The Customer Segments and Channel boxes in his template are designed to help you
 
 Ash goes on to prescribe a four step workflow for de-risking each of the three aspects of your plan.  The four steps of each of the following mini-workflows tie back his basic iteration meta-pattern.  
 
->Product risk: Getting the right product
-	>1) First make sure you have a problem worth solving.
-	>2) Then define the smallest possible solution (MVP)
-	>3) Build and validate your MVP at small scale (demonstrate UVP/Unique Value Proposition)
-	>4) Then verify it at large scale.
+### Product risk: Getting the right product
 
->Customer risk: Building a path to customers
-	>1) First identify who has pain.
-	>2) Then narrow this down to early adopters who really want your product now.
-	>3) It's OK to start with outbound channels.
-	>4) But gradually build/develop scalable inbound channels - the earlier the better.
+**1) First make sure you have a problem worth solving.**
 
->Market risk: Building a viable business
-	>1) Identify competition through existing alternatives and pick a price for your solution.
-	>2) Test pricing first by measuring what customers say (verbal commitments).
-	>3) Then test pricing by what customers do.
-	>4) Optimize your cost structure to make the business model work."
+**2) Then define the smallest possible solution (MVP)**
+
+**3) Build and validate your MVP at small scale (demonstrate UVP/Unique Value Proposition)**
+
+**4) Then verify it at large scale.**
+
+### Customer risk: Building a path to customers
+
+**1) First identify who has pain.**
+
+**2) Then narrow this down to early adopters who really want your product now.**
+
+**3) It's OK to start with outbound channels.**
+
+**4) But gradually build/develop scalable inbound channels - the earlier the better.**
+
+### Market risk: Building a viable business
+
+**1) Identify competition through existing alternatives and pick a price for your solution.**
+
+**2) Test pricing first by measuring what customers say (verbal commitments).**
+
+**3) Then test pricing by what customers do.**
+
+**4) Optimize your cost structure to make the business model work.**
 
 These mini-workflows for "Systematically Reducing Risk" are illustrated in the following diagram found on page 67 of his book.
 
@@ -66,15 +78,21 @@ The UVP or unique value proposition concept that Ash prescribes in his Product r
 
 "The key to unlocking what's different about your product is deriving your UVP directly from the number-one problem you are solving.  If that problem is indeed worth solving, you're more than halfway there already."
 
-Ash goes on to prescribe the following 7 guidelines for:
- >Crafting an effective UVP
-	>1) Be different, but make sure the difference matters.
-	>2) Target early adopters. 
-	>3) Focus on finished story benefits (i.e., benefits derived after using your product).
-	>4) Pick your words carefully and own them.
-	>5) Answer: what, who, and why.
-	>6) Study other good UVPs.
-	>7) Create a high-concept pitch (i.e., distill concept into a memorable sound bite).
+Ash goes on to prescribe the following 7 guidelines for Crafting an effective UVP:
+ 
+**1) Be different, but make sure the difference matters.**
+
+**2) Target early adopters.** 
+
+**3) Focus on finished story benefits (i.e., benefits derived after using your product).**
+
+**4) Pick your words carefully and own them.**
+
+**5) Answer: what, who, and why.**
+
+**6) Study other good UVPs.**
+
+**7) Create a high-concept pitch (i.e., distill concept into a memorable sound bite).**
 
 Another area where Ash provides more emphasis, depth of thought, and guidance relative to other books in the Lean series is around the types of channels you can leverage to "build a path to your customers".   
 
@@ -120,20 +138,33 @@ In outlining the strategic role of one-on-one conversations/customer interviews 
 
 Ash includes a list of basic tips-and-tricks for getting yourself into the right head space for having a great interview or series of interviews.  He recommends the following:
 
->	1) Build a frame around learning, not pitching.
->	2) Don't ask customers what they want.  Measure what they do (or recall doing). 
->	3) Stick to a script.
->	4) Cast a wider (recruiting) net initially.
->	5) Prefer face-to-face interviews.
->	6) Start with people you know.
->	7) Take someone along with you.
->	8) Pick a neutral location.
->	9) Ask for sufficient time.
->	10) Don’t pay prospects or provide other incentives.
->	11) Avoid recording the interviewees.
->	12) Document results immediately after the interviews.
->	13) Prepare yourself to interview 30 to 60 people.
->	14) Consider outsourcing interview scheduling (e.g., to a digital assistant). 
+**1) Build a frame around learning, not pitching.**
+
+**2) Don't ask customers what they want.  Measure what they do (or recall doing).**
+
+**3) Stick to a script.**
+
+**4) Cast a wider (recruiting) net initially.**
+
+**5) Prefer face-to-face interviews.**
+
+**6) Start with people you know.**
+
+**7) Take someone along with you.**
+
+**8) Pick a neutral location.**
+
+**9) Ask for sufficient time.**
+
+**10) Don’t pay prospects or provide other incentives.**
+
+**11) Avoid recording the interviewees.**
+
+**12) Document results immediately after the interviews.**
+
+**13) Prepare yourself to interview 30 to 60 people.**
+
+**14) Consider outsourcing interview scheduling (e.g., to a digital assistant).** 
 
 
 Finally, as Ash wraps up the book he outlines one last "big idea" that is the best encapsulation of my personal belief as to where the future of customer-driven business processes lie.  He writes:
