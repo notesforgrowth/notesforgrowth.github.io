@@ -3,6 +3,7 @@ layout: post
 title: Running Lean
 author: Monty Hammontree
 ---
+
 One of the most common Lean/Agile software development principles that I've seen paraphrased is to, "value conversation over documentation".  I love the quote from Ash, early in the book, that the "true purpose" of a business plan lies in: 
 >"…facilitating conversations with people other than yourself."  
 
