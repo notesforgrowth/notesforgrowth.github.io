@@ -124,7 +124,7 @@ As he transitions into providing tips onto how to test your assumptions about yo
 
 He points out that starting your learning process with focus groups or surveys is usually a bad idea.
 
->"Survey assume you know the right questions to ask.  
+>"Surveys assume you know the right questions to ask.  
 >It is hard, if not impossible, to script a survey that hits all the right questions to ask, because you don't know what those questions are. During a customer interview, you can ask for clarification and explore areas outside of your initial understanding.  
 >Customer interviews are about exploring what you don't know you don't know."
 
