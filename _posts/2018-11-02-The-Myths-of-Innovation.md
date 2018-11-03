@@ -3,7 +3,7 @@ layout: post
 title: The Myths of Innovation
 author: Kelly Krout
 ---
-In [The Myths of Innovation](https://www.amazon.com/Myths-Innovation-Scott-Berkun/dp/1449389627 "The Myths of Innovation"), Scott Berkun shows you how to transcend the false stories that pop culture foolishly uses to guide our thinking about how ideas change the world. Myths of innovation can become barriers to successful insights when they seem magical - let's break them down to reality so that we can increase our power to innovate.
+In [The Myths of Innovation](https://www.amazon.com/Myths-Innovation-Scott-Berkun/dp/1449389627 "The Myths of Innovation"), Scott Berkun shows you how to transcend the false stories that pop culture foolishly uses to guide our thinking about how breakthrough ideas came to be. Myths of innovation can become barriers to successful insights when they seem magical - let's break them down to reality so that we can increase our power to innovate.
 
 ![Book cover of The Myths of Innovation](/images/The-Myths-of-Innovation/1.png)
 
