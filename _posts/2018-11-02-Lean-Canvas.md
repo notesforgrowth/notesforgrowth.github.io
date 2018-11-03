@@ -3,7 +3,10 @@ layout: post
 title: Running Lean
 author: Monty Hammontree
 ---
-One of the most common Lean/Agile software development principles that I've seen paraphrased is to, "value conversation over documentation".  I love the quote from Ash, early in the book, that the "true purpose" of a business plan lies in, "…facilitating conversations with people other than yourself".  He continually weaves this point throughout his book by emphasizing that one of the primary purposes of his one-page "Lean Canvas" template is to spark conversation.  
+One of the most common Lean/Agile software development principles that I've seen paraphrased is to, "value conversation over documentation".  I love the quote from Ash, early in the book, that the "true purpose" of a business plan lies in: 
+>"…facilitating conversations with people other than yourself".  
+
+He continually weaves this point throughout his book by emphasizing that one of the primary purposes of his one-page "Lean Canvas" template is to spark conversation.  
 
 He extolls the following three virtues of adopting a one page business model format.  
 
