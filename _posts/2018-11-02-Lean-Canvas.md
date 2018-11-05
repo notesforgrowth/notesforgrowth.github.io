@@ -35,7 +35,7 @@ This recipe starts with capturing your assumptions relative to each of the 9-box
 
 <p style="text-align: center">
     <img src="/images/Lean-Canvas/Lean-Canvas.png" />
-    <span class="caption">SThe Lean Canvas</span>
+    <span class="caption">The Lean Canvas</span>
 </p>
 
 The Customer Segments and Channel boxes in his template are designed to help you capture critical assumptions that need to hold true in order for you to "build a path to customers".  The Problem, Solution, Unique Value Proposition, and Key Metrics boxes focus on capturing critical assumptions you need to test in order to ensure you are working on product that is "something people want".  Finally, the Revenue Streams and Cost Structure boxes focus on capturing assumptions you will need to test in order to ensure that you are, "building a viable business".  
