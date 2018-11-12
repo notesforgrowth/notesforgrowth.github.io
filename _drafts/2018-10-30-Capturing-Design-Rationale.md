@@ -6,11 +6,11 @@ author: Steven Clarke
 One technique I keep coming back to time and time again is that of capturing design rationale in QOC (Questions, Options and Criteria) diagrams.
 
 # Questions, Options and Criteria
-Over two decades ago, a classic text on design rationale was published: https://www.crcpress.com/Design-Rationale-Concepts-Techniques-and-Use/Moran-Carroll/p/book/9780805815672
+Over two decades ago, a classic text on design rationale was published: [![Design Rationale](/images/QOC/bookcover.png)](https://www.crcpress.com/Design-Rationale-Concepts-Techniques-and-Use/Moran-Carroll/p/book/9780805815672)
 
 The book was fascinating for me as it focused on understanding the design process and the way that design questions are resolved by designers. I loved the focus on the design process, especially since I was a student when the book was published and hadn't yet gained any real practical experience outside of academia. I felt that this book gave me a great insight into how design actually happens.
 
-One chapter in particular that stood out was the second chapter in the first part of the book, "Questions, Options, and Criteria: Elements of Design Space Analysis" (https://www.researchgate.net/publication/233367028_Questions_Options_and_Criteria_Elements_of_Design_Space_Analysis). This chapter describes a notation for capturing the results of design discussions such that these results can be used to document the design and to ensure that a range of alternative design options are carefully considered and weighed up against each other.
+One chapter in particular that stood out was the second chapter in the first part of the book, ["Questions, Options, and Criteria: Elements of Design Space Analysis"](https://www.researchgate.net/publication/233367028_Questions_Options_and_Criteria_Elements_of_Design_Space_Analysis). This chapter describes a notation for capturing the results of design discussions such that these results can be used to document the design and to ensure that a range of alternative design options are carefully considered and weighed up against each other.
 
 During any design process, designers ask and answer many questions about the design. At the end of the design process, an artifact is designed or created but the story of how that artifact came into being is often lost. That means any opportunity for learning why the artifact was designed that particular way depends on the availability and the memory of any of the designers involved.
 
