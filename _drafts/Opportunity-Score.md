@@ -24,7 +24,7 @@ Competitive analysis
 First, define outcomes (collect data)
 Then collect data about Importance and Satisfaction
 
-## How to compute the Opportunity Score?
+## I have the data already. How do compute the thing?
 
 Computing it
 Plotting it
