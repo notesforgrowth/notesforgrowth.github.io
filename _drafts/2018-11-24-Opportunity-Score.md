@@ -37,7 +37,7 @@ Understanding the job-to-be-done for a specific product or market requires a who
 Once a job-to-be-done has been defined, it should be broken down the into smaller job steps, and for each step, a series of _outcomes_ (as expected or desired by customers) should be enunciated. For instance, a job-to-be-done could be:
 
 
-  Listening to music.
+>  Listening to music.
 
 And the steps of this job-to-be-done and their outcomes could be:
 
@@ -55,21 +55,15 @@ And the steps of this job-to-be-done and their outcomes could be:
 | Listening in different places   | Listening at home                                   |
 |                                 | Listening on the go                                 |
 
-(BTW, Ulwick's says that jobs-to-be-done generally don't change across time. This might be suggested by this example.)
+BTW, according to Ulwick, jobs-to-be-done generally don't change across time. This might be suggested by this example.
 
-## Collecting the data
-To obtain the Opportunity Score for each outcome, one should ask customers two questions:
+## Computing the Score
+To obtain the Opportunity Score for each outcome, one should ask customers two questions (Ulwick recommends asking these questions to a sample of over 180 participants):
 
 1. __Importance:__ _When [job step], how __important__ is it to you that you are able to [outcome]?_ (1 to 5 scale, 1 = "Not at all important", 5 = "Extremely important")
 2. __Satisfaction:__ _When using [solution], how __satisfied__ are you with your ability to [outcome]?_ (1 to 5 scale, 1 = "Not at all satisfied", 5 = "Extremely satisfied")
 
-Where [solution] is the solution that the customer currently uses to get the job done.
-
-Ulwick recommends asking these questions to a sample of over 180 participants.
-
-### Computing the score
-
-Obtaining the opportunity score is easy:
+Where [solution] is the solution that the customer currently uses to get the job done. Obtaining the opportunity score is easy:
 
 1. Compute the percentage of respondents who answered 4 or 5 to both __importance__ (that is those who said the outcome is "Important" or "Extremely important") and __satisfaction__ (those who said they are "Satisfied" or "Extremely satisfied").
 
@@ -77,7 +71,7 @@ Obtaining the opportunity score is easy:
 
 
 
-```OpScore = Importance + max(Importance - Satisfaction, 0)```
+>```OpScore = Importance + max(Importance - Satisfaction, 0)```
 
 
 
