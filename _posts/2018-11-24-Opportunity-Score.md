@@ -4,17 +4,17 @@ title: What is (Ulwick's) Opportunity Score?
 author: JP Carrascal
 ---
 
-The Opportunity Score is a tool that helps (among other things) to estimate market opportunity, to prioritize efforts in product development and to conduct competitive analysis. It is part of the "Opportunity-Driven Innovation" framework created by Anthony W. Ulwick, that aims at making "innovation predictable". This article focuses specifically on the Opportunity Score calculation. However, the Opportunity Score is not a silver bullet, and if you want to use properly, you should read a bit more on the Opportunity-Driven Innovation process to get the whole picture. To help with that, I have included a few links in the "Further Reading" section at the end of the article.
+The Opportunity Score is a tool that helps (among other things) to estimate market opportunity, to prioritize efforts in product development and to conduct competitive analysis. It is part of the _Opportunity-Driven Innovation_ framework created by Anthony W. Ulwick, that aims at "making innovation predictable". This article focuses specifically on the Opportunity Score calculation. However, the Opportunity Score is not a silver bullet, and if you want to use properly, you should read a bit more on the Opportunity-Driven Innovation process to get the whole picture. To help with that, I have included a few links in the "Further Reading" section at the end of the article.
 
 ## Background
 
-Ulwick's work on Opportunity-Driven Innovation (ODI) is based on the idea that customers mainly pay to get a _job-to-be-done_. This means people do not actually care about tools, features or specs, what they care about is achieving a goal (this is nicely explained by Prof. Clayton Christensen in <a href="https://www.youtube.com/watch?v=Q63PZR7mG70" target=_blank>this video</a>). If a product of service helps customers to achieve the goal (to get a job done), they will pay for it. According to Ulwick, deeply understanding the customers' _job-to-be-done_ is necessary to predict whether customers will be willing to pay for a product. The ODI framework is a systematic approach towards analyzing jobs-to-be-done to decide whether to invest on a certain design space, and how to prioritize such investment.
+Ulwick's work on Opportunity-Driven Innovation (ODI) is based on the idea that customers mainly pay to get a _job-to-be-done_. This means people do not actually care about tools, features or specs, what they care about is achieving a goal (this is nicely explained by Prof. Clayton Christensen in [this video](https://www.youtube.com/watch?v=Q63PZR7mG70)). If a product of service helps customers to achieve the goal (to get a job done), they will pay for it. According to Ulwick, deeply understanding the customers' _job-to-be-done_ is necessary to predict whether customers will be willing to pay for a product. The ODI framework is a systematic approach towards analyzing jobs-to-be-done to decide whether to invest on a certain design space, and how to prioritize such investment.
 
 Understanding the job-to-be-done for a specific product or market requires a whole research process that is outside of the scope of the article.
 
 ## The Opportunity Score
 
- The main metric used in the ODI framework is the Opportunity Score. This is the result of an <a href="https://en.wikipedia.org/wiki/Gap_analysis" target=_blank>analysis of the gap</a> between the importance that customers assign to the expected outcomes of a job-to-be-done, and how satisfied they are with their current solutions.
+ The main metric used in the ODI framework is the Opportunity Score. This is the result of an [analysis of the gap](https://en.wikipedia.org/wiki/Gap_analysis) between the importance that customers assign to the expected outcomes of a job-to-be-done, and how satisfied they are with their current solutions.
 
 Once a job-to-be-done has been defined, it should be broken down the into smaller job steps, and for each step, a series of _outcomes_ (as expected or desired by customers) should be enunciated. For instance, a job-to-be-done could be:
 
@@ -24,16 +24,16 @@ Once a job-to-be-done has been defined, it should be broken down the into smalle
 And the steps of this job-to-be-done and their outcomes could be:
 
 
-| Job step        | Outcomes|
+| __Job step__        | __Outcomes__|
 | ------------- |:-------------:|
-| Finding relevant music      | Discovering new music I might like |
-|       | Finding music my friends recommend to me |
-|       | Identifying music I hear anywhere |
-| Organizing my music | Browsing through the music I have |
-|       | Grouping my music according to different criteria |
-|       | Listening to the music in the order I choose |
-| Listening in different places | Listening at home |
-|       | Listening on the go |
+| Finding relevant music      | Discovering new music I might like  |
+|       | Finding music my friends recommend to me  |
+|       | Identifying music I hear anywhere  |
+| Organizing my music | Browsing through the music I have  |
+|       | Grouping my music according to different criteria  |
+|       | Listening to the music in the order I choose  |
+| Listening in different places | Listening at home  |
+|       | Listening on the go  |
 
 (BTW, Ulwick's says that jobs-to-be-done generally don't change across time. This might be suggested by this example.)
 
