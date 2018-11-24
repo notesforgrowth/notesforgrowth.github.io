@@ -55,9 +55,12 @@ Obtaining the opportunity score is easy:
 
 2. Insert these percentages in the Opportunity Score formula:
 
-´´´
-OpScore = Importance + max(Importance - Satisfaction, 0)
-´´´
+
+
+>  OpScore = Importance + max(Importance - Satisfaction, 0)
+
+
+
 _(NOTE: Ulwick normalizes the percentages to 10 instead of 100. I'm not sure why.)_
 
 To interpret the results, the data is usually plotted on a graph like this one:
