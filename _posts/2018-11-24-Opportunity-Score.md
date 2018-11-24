@@ -64,7 +64,7 @@ To interpret the results, the data is usually plotted on a graph like this one:
 
 <p style="text-align:center">
 <img src="/images/Opportunity-Score/OpportunityLandscape.jpg" style="width:80%;"/>
-<span class="caption">Opportunity Landscape.</span>
+<span class="caption">The "Opportunity Landscape".</span>
 </p>
 
 The graph illustrates the landscape of how customers' needs are satisfied and indicates prioritization strategies for improving existing products or creating new ones. The _Overserved_ area suggests there is not much room for innovation and most likely way to compete there is by offering a lower-priced solution. On the opposite side, the _Underserved_ area indicates there are stronger opportunities to innovate as there are a lot of unsolved needs. People will be willing to pay more to have these needs solved. The middle area represents needs that are important but are currently well satisfied. Ulwick indicate thet these are "table stakes" that should be served if one considers developing a new product for a job-to-be-done. 
@@ -74,6 +74,8 @@ Another interesting application of the opportunity score is for conducting compe
 Ulwick also suggests conducting regression and clustering analyses to discover market segments with latent opportunities.
 
 ## R script
+
+I will update this post shortly to include an R script for computing Opportunity Scores and generating a graph like the one avobe shortly.
 
 ## Further Reading
 
