@@ -4,6 +4,22 @@ title: What is (Ulwick's) Opportunity Score?
 author: JP Carrascal
 ---
 
+<style>
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:2px solid #ff0000;
+}
+
+th{
+    border:2px solid #000000;
+}
+
+td{
+    border:1px solid #000000;
+}
+</style>
+
 The Opportunity Score is a tool that helps (among other things) to estimate market opportunity, to prioritize efforts in product development and to conduct competitive analysis. It is part of the _Opportunity-Driven Innovation_ framework created by Anthony W. Ulwick, that aims at "making innovation predictable". This article focuses specifically on the Opportunity Score calculation. However, the Opportunity Score is not a silver bullet, and if you want to use properly, you should read a bit more on the Opportunity-Driven Innovation process to get the whole picture. To help with that, I have included a few links in the "Further Reading" section at the end of the article.
 
 ## Background
@@ -23,7 +39,7 @@ Once a job-to-be-done has been defined, it should be broken down the into smalle
 
 And the steps of this job-to-be-done and their outcomes could be:
 
-<sub>
+
 | __Job step__                    | __Outcomes__                                        |
 |---------------------------------|-----------------------------------------------------|
 | Finding relevant music          | Discovering new music I might like                  |
@@ -36,7 +52,6 @@ And the steps of this job-to-be-done and their outcomes could be:
 |---------------------------------|-----------------------------------------------------|
 | Listening in different places   | Listening at home                                   |
 |                                 | Listening on the go                                 |
-</sub>
 
 (BTW, Ulwick's says that jobs-to-be-done generally don't change across time. This might be suggested by this example.)
 
