@@ -24,16 +24,19 @@ Once a job-to-be-done has been defined, it should be broken down the into smalle
 And the steps of this job-to-be-done and their outcomes could be:
 
 
-| __Job step__        | __Outcomes__|
-| ------------- |:-------------:|
-| Finding relevant music      | Discovering new music I might like  |
-|       | Finding music my friends recommend to me  |
-|       | Identifying music I hear anywhere  |
-| Organizing my music | Browsing through the music I have  |
-|       | Grouping my music according to different criteria  |
-|       | Listening to the music in the order I choose  |
-| Listening in different places | Listening at home  |
-|       | Listening on the go  |
+| __Job step__                  | __Outcomes__                                        |
+|-------------------------------|-----------------------------------------------------|
+| Finding relevant music        | Discovering new music I might like                  |
+|                               | Finding music my friends recommend to me            |
+|                               | Identifying music I hear anywhere                   |
+|-------------------------------|-----------------------------------------------------|
+| Organizing my music           | Browsing through the music I have                   |
+|                               | Grouping my music according to different criteria   |
+|                               | Listening to the music in the order I choose        |
+|-------------------------------|-----------------------------------------------------|
+| Listening in different places | Listening at home                                   |
+|                               | Listening on the go                                 |
+
 
 (BTW, Ulwick's says that jobs-to-be-done generally don't change across time. This might be suggested by this example.)
 
