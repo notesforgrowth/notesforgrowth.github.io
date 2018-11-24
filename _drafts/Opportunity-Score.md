@@ -10,13 +10,13 @@ The Opportunity Score is a tool that helps (among other things) to estimate mark
 
 Ulwick's work on Opportunity-Driven Innovation (ODI) is based on the idea that customers mainly pay to get a _job-to-be-done_. This means people do not actually care about tools, features or specs, what they care about is achieving a goal (this is nicely explained by Prof. Clayton Christensen in <a href="https://www.youtube.com/watch?v=Q63PZR7mG70" target=_blank>this video</a>). If a product of service helps customers to achieve the goal (to get a job done), they will pay for it. According to Ulwick, deeply understanding the customers' _job-to-be-done_ is necessary to predict whether customers will be willing to pay for a product. The ODI framework is a systematic approach towards analyzing jobs-to-be-done to decide whether to invest on a certain design space, and how to prioritize such investment.
 
-(Understanding the job-to-be-done for a specific product or market requires a whole research process outside of the scopr of the article.)
+Understanding the job-to-be-done for a specific product or market requires a whole research process that is outside of the scope of the article.
 
-### What is the Opportunity Score?
+## The Opportunity Score
 
  The main metric used in the ODI framework is the Opportunity Score. This is the result of an <a href="https://en.wikipedia.org/wiki/Gap_analysis" target=_blank>analysis of the gap</a> between the importance that customers assign to the expected outcomes of a job-to-be-done, and how satisfied they are with their current solutions.
 
-Once a job-to-be-done has been understood, it should be broken down the into smaller job steps, and for each step, a series of _outcomes_ (as expected or desired by customers) should be defined. For instance, a job-to-be-done could be:
+Once a job-to-be-done has been defined, it should be broken down the into smaller job steps, and for each step, a series of _outcomes_ (as expected or desired by customers) should be enunciated. For instance, a job-to-be-done could be:
 
 
   Listening to music.
@@ -26,54 +26,52 @@ And the steps of this job-to-be-done and their outcomes could be:
 
 | Job step        | Outcomes|
 | ------------- |:-------------:|
-| Finding relevant music      | Finding new music I might like |
-|       | Getting music my friends recommend to me |
+| Finding relevant music      | Discovering new music I might like |
+|       | Finding music my friends recommend to me |
 |       | Identifying music I hear anywhere |
-| Organizing my music | Browsing the music I have |
+| Organizing my music | Browsing through the music I have |
 |       | Grouping my music according to different criteria |
 |       | Listening to the music in the order I choose |
 | Listening in different places | Listening at home |
 |       | Listening on the go |
 
+(BTW, Ulwick's says that jobs-to-be-done generally don't change across time. This might be suggested by this example.)
 
-### Obtaining the data
+## Collecting the data
 To obtain the Opportunity Score for each outcome, one should ask customers two questions:
 
-1. __Importance:__ _When [job step], how __important__ is it to you that you are able to [outcome]?_ (1 to 5, 1 = "Not at all important", 5 = "Extremely important")
-2. __Satisfaction:__ _When using [solution], how __satisfied__ are you with your ability to [outcome]?_ (1 to 5, 1 = "Not at all satisfied", 5 = "Extremely satisfied")
+1. __Importance:__ _When [job step], how __important__ is it to you that you are able to [outcome]?_ (1 to 5 scale, 1 = "Not at all important", 5 = "Extremely important")
+2. __Satisfaction:__ _When using [solution], how __satisfied__ are you with your ability to [outcome]?_ (1 to 5 scale, 1 = "Not at all satisfied", 5 = "Extremely satisfied")
 
-(Where [solution] is any current product or service used by the customer to get the job done.)
+Where [solution] is the solution that the customer currently uses to get the job done.
 
-Bear in mind that these questions should be asked to a representative pool of participants.
+Ulwick recommends asking these questions to a sample of over 180 participants.
 
 ### Computing the score
 
-Computing the opportunity score is easy:
+Obtaining the opportunity score is easy:
 
 1. Compute the percentage of respondents who answered 4 or 5 to both __importance__ (that is those who said the outcome is "Important" or "Extremely important") and __satisfaction__ (those who said they are "Satisfied" or "Extremely satisfied").
 
-2. Include the percentages in the Opportunity Score formula:
+2. Insert these percentages in the Opportunity Score formula:
 
 ´´´
 OpScore = Importance + max(Importance - Satisfaction, 0)
 ´´´
+_(NOTE: Ulwick normalizes the percentages to 10 instead of 100. I'm not sure why.)_
 
+To interpret the results, the data is usually plotted on a graph like this one:
 
-Computing it
-Plotting it
-Description of the zones in the map
+<p style="text-align:center">
+<img src="/images/Opportunity-Score/OpportunityLandscape.jpg" style="width:80%;"/>
+<span class="caption">Opportunity Landscape.</span>
+</p>
 
-### Zones
+The graph illustrates the landscape of how customers' needs are satisfied and indicates prioritization strategies for improving existing products or creating new ones. The _Overserved_ area suggests there is not much room for innovation and most likely way to compete there is by offering a lower-priced solution. On the opposite side, the _Underserved_ area indicates there are stronger opportunities to innovate as there are a lot of unsolved needs. People will be willing to pay more to have these needs solved. The middle area represents needs that are important but are currently well satisfied. Ulwick indicate thet these are "table stakes" that should be served if one considers developing a new product for a job-to-be-done. 
 
-### Prioritization
+Another interesting application of the opportunity score is for conducting competitive analysis. Breaking down features of two competing products (which are meant to lead to expected outcomes) and comparing their opportunity scores is a good way to compare how well they satisfy a customers' job-to-be-done.
 
-### Competitive analysis
-
-## How to collect the data?
-
-First, define outcomes (collect data)
-Then collect data about Importance and Satisfaction
-
+Ulwick also suggests conducting regression and clustering analyses to discover market segments with latent opportunities.
 
 ## R script
 
@@ -83,8 +81,6 @@ Then collect data about Importance and Satisfaction
 
 - Ulwick's talk on ODI in the 2018 [From Business to Buttons](https://frombusinesstobuttons.com/), a Scandinavian conference on UX and Service Design. [Video.](https://www.youtube.com/watch?v=2ecwXEnQ6xY)
 
-- [Jobs-to-be-Done + ODI](https://jobs-to-be-done.com/), a Medium blog by Ulwick.
+- [Jobs-to-be-Done + ODI](https://jobs-to-be-done.com/), a Medium blog by Ulwick. This is probably the most relevant post in that blog: [Outcome-Driven Innovation: JTBD Theory in Practice](https://jobs-to-be-done.com/outcome-driven-innovation-odi-is-jobs-to-be-done-theory-in-practice-2944c6ebc40e)
 
 - This article is a nice and short summary of the main topics in the book: [Outcome-Driven Innovation](https://medium.com/@AlexJupiter/outcome-driven-innovation-3377252aec15)
-
-- Another summary of the ODI method: [Quantify Your Customer’s Unmet Needs](https://jobs-to-be-done.com/quantify-your-customers-unmet-needs-fda5b20fce54)
