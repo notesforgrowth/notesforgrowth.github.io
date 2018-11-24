@@ -8,7 +8,7 @@ author: JP Carrascal
 table{
     border-collapse: collapse;
     border-spacing: 0;
-    border:2px solid #ff0000;
+    border:2px solid #000000;
 }
 
 th{
@@ -17,6 +17,8 @@ th{
 
 td{
     border:1px solid #000000;
+    padding: 5px;
+    font-size: 0.8em;
 }
 </style>
 
@@ -88,7 +90,7 @@ To interpret the results, the data is usually plotted on a graph like this one:
 <span class="caption">The "Opportunity Landscape".</span>
 </p>
 
-The graph illustrates the landscape of how customers' needs are satisfied and indicates prioritization strategies for improving existing products or creating new ones. The _Overserved_ area suggests there is not much room for innovation and most likely way to compete there is by offering a lower-priced solution. On the opposite side, the _Underserved_ area indicates there are stronger opportunities to innovate as there are a lot of unsolved needs. People will be willing to pay more to have these needs solved. The middle area represents needs that are important but are currently well satisfied. Ulwick indicate thet these are "table stakes" that should be served if one considers developing a new product for a job-to-be-done. 
+The graph illustrates how well customers' needs are satisfied with current solutions. It helps to indicate prioritization strategies for improving existing products or creating new ones. The _Overserved_ area suggests there is not much room for innovation and most likely way to compete there is by offering a lower-priced solution. On the opposite side, the _Underserved_ area indicates there are stronger opportunities to innovate as there are a lot of unsolved needs. People will be willing to pay more to have these needs solved. The middle area represents needs that are important but are currently well satisfied. Ulwick indicate thet these are "table stakes" that should be served if one considers developing a new product for a job-to-be-done. 
 
 Another interesting application of the opportunity score is for conducting competitive analysis. Breaking down features of two competing products (which are meant to lead to expected outcomes) and comparing their opportunity scores is a good way to compare how well they satisfy a customers' job-to-be-done.
 
