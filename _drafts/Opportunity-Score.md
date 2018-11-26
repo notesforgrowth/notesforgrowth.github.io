@@ -20,6 +20,11 @@ td{
     padding: 5px;
     font-size: 0.8em;
 }
+
+.caption
+{
+  font-size: 0.8em;
+}
 </style>
 
 The Opportunity Score is a tool that helps (among other things) to estimate market opportunity, to prioritize efforts in product development and to conduct competitive analysis. It is part of the _Opportunity-Driven Innovation_ framework created by Anthony W. Ulwick, that aims at "making innovation predictable". This article focuses specifically on the Opportunity Score calculation. However, the Opportunity Score is not a silver bullet, and if you want to use properly, you should read a bit more on the Opportunity-Driven Innovation process to get the whole picture. To help with that, I have included a few links in the "Further Reading" section at the end of the article.
@@ -56,7 +61,7 @@ And the steps of this job-to-be-done and their outcomes could be:
 |                                 | Listening on the go                                 |
 
 
-BTW, according to Ulwick, jobs-to-be-done generally don't change across time. This might be suggested by this example.
+This kind of greak down of jobs-to-be-done is usually the result of qualitative research with cusatomers (e.g. interviews). BTW, according to Ulwick, jobs-to-be-done generally don't change across time. This might be suggested by this example.
 
 ### Collecting the data
 To obtain the Opportunity Score for each outcome, you first need to collect data from your customers about the desired outcomes. You should ask customers two questions:
@@ -96,11 +101,13 @@ In the example, above (I made up some answer values)
 
 _NOTE: Ulwick normalizes the percentages to 10 instead of 100. I'm not sure why, but this sometimes leads to confusion as the first impulse is to normalize the 1-5 question scale to 10 (by multipliying by 2)._
 
-To interpret the results, the data is usually plotted on a graph like this one:
+### Interpreting the results
+
+To interpret the OpScore results, data is usually plotted on a graph like this one:
 
 <p style="text-align:center">
 <img src="/images/Opportunity-Score/OpportunityLandscape.jpg" style="width:80%;"/>
-<span class="caption">The "Opportunity Landscape".</span>
+<span class="caption">The "Opportunity Landscape". Data from the example was overlaid on a scan from the book.</span>
 </p>
 
 The graph illustrates how well customers' needs are satisfied with current solutions. It helps to indicate prioritization strategies for improving existing products or creating new ones. The _Overserved_ area suggests there is not much room for innovation and most likely way to compete there is by offering a lower-priced solution. On the opposite side, the _Underserved_ area indicates there are stronger opportunities to innovate as there are a lot of unsolved needs. People will be willing to pay more to have these needs solved. The upper right corner area represents needs that are important but are currently well satisfied. Ulwick indicate thet these are "table stakes" that should be served if one considers developing a new product for a job-to-be-done. 
@@ -109,9 +116,10 @@ Another interesting application of the opportunity score is for conducting compe
 
 Ulwick also suggests conducting regression and clustering analyses to discover market segments with latent opportunities. Again, this is out of the scope of this article.
 
-### A note on sample sizes
+### A word on sample sizes and other uses
 
-Ulwick recommends asking these questions to a sample of over 180 participants.
+For the type of market and innovation research that his original book is aimed for, Ulwick recommends asking the Importance and Satisfaction questions to a sample of at least 180 participants. To reach this sample sizes, a survey is probably the best method.
+At the DevDiv UX Research team we sometimes adapt Ulwick's method when conducting Concept Value Testing (CVT) during 1 to 1 sessions with customers. In those cases, the OpScore allows us to get an idea of how critical a problem or ourcome is. Later on we present the features and conduct the actual CVT to assess whether the proposed solutions might help solving the problem or obtaining the desired outcome for the customer. In this kind of study, the sample size is lower (20+ participants), hence, although results can help guiding product development (e.g. for prioritizing engineering efforts), caution is needed before considering them significant.
 
 ## R script
 
