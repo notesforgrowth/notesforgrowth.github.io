@@ -80,7 +80,7 @@ This is pretty easy:
 
 > ```OpScore = Importance + max(Importance - Satisfaction, 0)```
 
-I made up some answer values for the "listening to music" example:
+I made up some answer values for the "surviving grad school" example:
 
 | __Outcomes__ | __Importance (%==4 or 5)__ | __Satisfaction (%==4 or 5)__ | __OpScore__ |
 | Writing papers | 6.7 | 7.6 | 12.4 |
