@@ -40,24 +40,27 @@ The main metric used in the ODI framework is the Opportunity Score. This is the 
 
 Once a job-to-be-done has been understood, it should be broken down the into smaller job steps, and for each step, a series of _outcomes_ (as expected or desired by customers) should be enunciated. For instance, a job-to-be-done could be:
 
->  Listening to music.
+>  Surviving grad school.
 
 And the steps and outcomes of this job-to-be-done and their outcomes could be:
 
 
 | __Job step__                    | __Outcomes__                                        |
 |---------------------------------|-----------------------------------------------------|
-| Finding relevant music          | Discovering new music I might like                  |
-|                                 | Finding music my friends recommend to me            |
-|                                 | Identifying music I hear anywhere                   |
+| Academic duties                 | Writing papers                                      | 
+|                                 | Getting submitted paper accepted                    |
+|                                 | Completing homework                                 |
+|                                 | Passing exams                                       |
+|                                 | Supervising master students                         |
 |---------------------------------|-----------------------------------------------------|
-| Organizing my music             | Browsing through the music I have                   |
-|                                 | Listening to the music in the order I choose        |
-|                                 | Sorting  music according to different criteria      |       
+| Daily activities                | Getting out of bed                                  |
+|                                 | Having coffee                                       |
+|                                 | Discreet napping                                    |
+|                                 | Finding cheap food                                  |
 |---------------------------------|-----------------------------------------------------|
-| Listening in different places   | Listening at home                                   |
-|                                 | Listening on the go                                 |
-
+| Spare time                      | Finding time to relax                               |
+|                                 | Fleeing from meetings                               |
+|                                 | Hiding from professors                              |
 
 ### Collecting the data
 To obtain the Opportunity Score for each outcome, you first need to collect data from your customers about the desired outcomes. You should ask customers two questions:
@@ -80,20 +83,19 @@ This is pretty easy:
 
 I made up some answer values for the "listening to music" example:
 
-| __Outcomes__                                        | __Importance (%==4 or 5)__ | __Satisfaction (%==4 or 5)__ | __OpScore__ |
-|-----------------------------------------------------|--------------------------|-----------------------------|-------------|
-| Discovering new music I might like                  | 8.6 | 6.4 | 10.8 |
-| Finding music my friends recommend to me            | 3.2 | 5.1 | 3.2 |
-| Identifying music I hear anywhere                   | 6.7 | 7.2 | 6.7 |
-|-----------------------------------------------------|--------------------------|-----------------------------|-------------|
-| Browsing through the music I have                   | 9.3 | 4.3 | 14.3 |
-| Listening to the music in the order I choose        | 8.9 | 8.0 | 9.8 |
-| Sorting  music according to different criteria      | 9.4 | 2.7 | 16.1 |
-|-----------------------------------------------------|--------------------------|-----------------------------|-------------|
-| Listening at home                                   | 9.5 | 9.2 | 9.8 |
-| Listening on the go                                 | 9.4 | 8.7 | 10.1 |
-
-
+| __Outcomes__ | __Importance (%==4 or 5)__ | __Satisfaction (%==4 or 5)__ | __OpScore__ |
+| Writing papers | 6.7 | 7.6 | 12.4 |
+| Getting submitted paper accepted | 7.7 | 7.7 | 13.5 |
+| Completing homework | 9.7 | 9.7 | 15.4 |
+| Passing exams | 8.6 | 10.0 | 14.3 |
+| Supervising master students | 3.3 | 3.3 | 9.1 |
+| Getting out of bed | 9.6 | 9.2 | 15.4 |
+| Having coffee | 9.0 | 9.3 | 14.8 |
+| Discreet napping | 5.7 | 7.8 | 11.4 |
+| Finding cheap food | 7.6 | 4.1 | 13.4 |
+| Finding time to relax | 8.5 | 2.7 | 14.2 |
+| Fleeing from meetings | 8.9 | 8.9 | 14.7 |
+| Hiding from professors | 9.0 | 8.0 | 14.8 |
 
 _NOTE: Ulwick normalizes the percentages to 10 instead of 100. I'm not sure why, but this sometimes leads to confusion as the first impulse is to normalize the 1-5 question scale to 10 (by multipliying by 2)._
 
