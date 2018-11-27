@@ -47,7 +47,7 @@ And the steps and outcomes of this job-to-be-done and their outcomes could be:
 
 | __Job step__                    | __Outcomes__                                        |
 |---------------------------------|-----------------------------------------------------|
-| Academic duties                 | Writing papers                                      | 
+| Complete academic duties        | Writing papers                                      | 
 |                                 | Getting submitted paper accepted                    |
 |                                 | Completing homework                                 |
 |                                 | Passing exams                                       |
@@ -55,10 +55,9 @@ And the steps and outcomes of this job-to-be-done and their outcomes could be:
 |---------------------------------|-----------------------------------------------------|
 | Daily activities                | Getting out of bed                                  |
 |                                 | Having coffee                                       |
-|                                 | Discreet napping                                    |
 |                                 | Finding cheap food                                  |
 |---------------------------------|-----------------------------------------------------|
-| Spare time                      | Finding time to relax                               |
+| Taking time to relax            | Discreet napping                                    |
 |                                 | Fleeing from meetings                               |
 |                                 | Hiding from professors                              |
 
@@ -91,9 +90,8 @@ I made up some answer values for the "listening to music" example:
 | Supervising master students | 3.3 | 3.3 | 9.1 |
 | Getting out of bed | 9.6 | 9.2 | 15.4 |
 | Having coffee | 9.0 | 9.3 | 14.8 |
-| Discreet napping | 5.7 | 7.8 | 11.4 |
 | Finding cheap food | 7.6 | 4.1 | 13.4 |
-| Finding time to relax | 8.5 | 2.7 | 14.2 |
+| Discreet napping | 5.7 | 7.8 | 11.4 |
 | Fleeing from meetings | 8.9 | 8.9 | 14.7 |
 | Hiding from professors | 9.0 | 8.0 | 14.8 |
 
