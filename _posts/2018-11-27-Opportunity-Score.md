@@ -51,7 +51,7 @@ And the steps and outcomes of this job-to-be-done and their outcomes could be:
 |                                 | Getting submitted paper accepted                    |
 |                                 | Completing homework                                 |
 |                                 | Passing exams                                       |
-|                                 | Supervising master students                         |
+|                                 | Supervising undergrad students                         |
 |---------------------------------|-----------------------------------------------------|
 | Daily activities                | Getting out of bed                                  |
 |                                 | Having coffee                                       |
@@ -87,7 +87,7 @@ I made up some answer values for the "surviving grad school" example:
 | Getting submitted paper accepted | 7.7 | 7.7 | 13.5 |
 | Completing homework | 9.7 | 9.7 | 15.4 |
 | Passing exams | 8.6 | 1.4 | 15.7 |
-| Supervising master students | 3.3 | 3.3 | 9.1 |
+| Supervising undergrad students | 3.3 | 3.3 | 9.1 |
 | Getting out of bed | 9.6 | 9.2 | 15.4 |
 | Having coffee | 9.0 | 9.3 | 14.8 |
 | Finding cheap food | 7.6 | 4.1 | 13.4 |
