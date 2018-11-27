@@ -84,7 +84,7 @@ This is pretty easy:
 
 In the example, above (I made up some answer values)
 
-| __Outcomes__                                        | __Importance (%==4||5)__ | __Satisfaction (%==4|| 5)__ | __OpScore__ |
+| __Outcomes__                                        | __Importance (%==4 or 5)__ | __Satisfaction (%==4 or 5)__ | __OpScore__ |
 |-----------------------------------------------------|--------------------------|-----------------------------|-------------|
 | Discovering new music I might like                  | 8.6 | 6.4 | 10.8 |
 | Finding music my friends recommend to me            | 3.2 | 5.1 | 3.2 |
@@ -123,7 +123,8 @@ At the DevDiv UX Research team we sometimes adapt Ulwick's method when conductin
 
 ## R script
 
-I will update this post shortly to include an R script for computing Opportunity Scores and generating a graph like the one avobe shortly.
+Here is an R script that will calculate the Opportunity Scores and generate an Opportunity map:
+[OppScore: yet another R script for calculating opportunity scores and plotting the Opportunity Map / Landscape.](https://github.com/jpcarrascal/OppScore)
 
 ## Further Reading
 
