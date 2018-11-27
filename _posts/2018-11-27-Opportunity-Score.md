@@ -103,7 +103,7 @@ To interpret the OpScore results, data is usually plotted on a graph like this o
 
 <p style="text-align:center">
 <img src="/images/Opportunity-Score/OpportunityLandscape.jpg" style="width:80%;"/>
-<span class="caption">The "Opportunity Landscape". Data from the example was overlaid on a scan from the book.</span>
+<span class="caption">The Opportunity Landscape for "surviving grad school".</span>
 </p>
 
 The graph illustrates how well customers' needs are satisfied with current solutions. It helps to indicate prioritization strategies for improving existing products or creating new ones. The _Overserved_ area suggests there is not much room for innovation and the way to compete there is mainly by offering a lower-priced solution. On the opposite side, the _Underserved_ area indicates there are stronger opportunities to innovate as there are a lot of important unsatisfied needs. People will be willing to pay more to have these needs solved. The upper right corner area represents needs that are important but are currently well satisfied. Ulwick indicate thet these are "table stakes" that necessarily must be be served if one considers developing a competitive product. 
