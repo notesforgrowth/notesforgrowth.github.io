@@ -86,7 +86,7 @@ I made up some answer values for the "listening to music" example:
 | Writing papers | 6.7 | 7.6 | 12.4 |
 | Getting submitted paper accepted | 7.7 | 7.7 | 13.5 |
 | Completing homework | 9.7 | 9.7 | 15.4 |
-| Passing exams | 8.6 | 10.0 | 14.3 |
+| Passing exams | 8.6 | 1.4 | 15.7 |
 | Supervising master students | 3.3 | 3.3 | 9.1 |
 | Getting out of bed | 9.6 | 9.2 | 15.4 |
 | Having coffee | 9.0 | 9.3 | 14.8 |
