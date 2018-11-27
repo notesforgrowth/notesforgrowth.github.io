@@ -4,7 +4,7 @@ title: What is the Opportunity Score?
 author: JP Carrascal
 ---
 
-The Opportunity Score is a tool that helps (among other things) to estimate market opportunity, to prioritize efforts in product development and to conduct competitive analysis. It is part of the _Opportunity-Driven Innovation_ framework created by Anthony W. Ulwick, that aims at "making innovation predictable". This article focuses specifically on the Opportunity Score calculation. However, the Opportunity Score is not a silver bullet, and if you want to use properly, you should read a bit more on the Opportunity-Driven Innovation process to get the whole picture. To help with that, I have included a few links in the "Further Reading" section at the end of the article.
+The Opportunity Score is a tool that helps (among other things) to estimate market opportunity, to prioritize efforts in product development and to conduct competitive analysis. It is part of the _Opportunity-Driven Innovation_ framework created by Anthony W. Ulwick, that aims at "making innovation predictable". This article focuses specifically on the Opportunity Score calculation. Bear in mind it is not a silver bullet, and if you want to use properly, you should probably read a bit more on the Opportunity-Driven Innovation process to get the whole picture. To help with that, I have included a few links in the "Further Reading" section at the end of the article.
 
 <style>
 table{
