@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is (Ulwick's) Opportunity Score?
+title: What is the Opportunity Score?
 author: JP Carrascal
 ---
 
