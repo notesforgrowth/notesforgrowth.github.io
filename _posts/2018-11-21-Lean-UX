@@ -1,0 +1,106 @@
+
+---
+layout: post
+title: Lean UX
+author: Julie Stuart
+
+# Lean UX 
+
+This is a review of [Lean UX: Applying Lean Principles to Improve User Experience](https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652).
+<br><br>
+
+## What is Lean UX?
+
+In the age of manufacturing, research and design had to be entirely completed before the product could be made. Many hours were spent ensuring the product would be perfect before production could even begin.  Early software development built upon these practices and formed the Waterfall method, a sequential process for engineering practices. <br><br>
+
+<p style="text-align: center">
+<img src="/images/Blah_images/Waterfall.png" />
+<span class="caption">Waterfall method</span>
+</p> 
+<br><br>
+
+	
+After the requirements and design phases ended, research and design came to a halting stop. Designers packed up their bags and moved on to the next product. End of story, right?<br>
+
+Not anymore. People began realizing the software engineering process was more fluid. The products that we created could be updated and changed quickly. Competitors could launch new features and remove useless ones in the blink of eye.
+
+<p style="text-align: center">
+<img src="/images/Blah_images/agile.PNG" />
+<span class="caption">Agile method</span>
+</p> 
+
+<br><br>
+
+
+The age of Agile software development is upon us. The UX process that used to fit the inflexible and siloed regimen of Waterfall no longer works. 
+
+Enter <b>Lean UX</b>.
+
+Lean UX rejects the idea that design must be contained in such an inflexible and siloed regimen. Instead, Lean UX is <b>the idea of implementing UX design and research in all stages of the product cycle, not just at the beginning.</b> Instead of handing over deliverables and moving on, designers now stick naround to keep iterating on their products.
+
+Lean UX has three foundations:<br>
+	1. Design Thinking: innovation powered by what people want and what people need<br>
+	2. Agile Software Development: <br>
+		individuals and interactions over processes and tools<br>
+		* Working software over compressive documentation<br>
+		* Customer collaboration over contract negotiation<br>
+		* Responding to change over following a plan<br>
+	3. Lean startup: advocates the creation of rapid prototypes designed to test market assumptions and  use customer feedback to evolve them much faster than traditional software practices.
+
+Gothelf and Seiden provide us with a 4-part guide of how to think about UX in an agile world. 
+	1. Hypothesis Testing
+	2. Collaborative Design
+	3. MVPs & Experiments
+	4. Feedback & Research
+	
+
+## Part. 1: Hypothesis testing
+
+First, Gothelf and Seiden propose we scrap requirements and instead focus on determining what our desired outcomes are and how we will achieve them.
+
+<p style="text-align: center">
+<img src="/images/Blah_images/DC.PNG" />
+<span class="caption">Agile method</span>
+</p> 
+
+Guide to Hypothesis testing:
+	1. Assumptions: 
+	What are we assuming and what is fact? Declaring assumptions with your team helps ensure everyone is on the same page. Assumptions can include:
+				1) Who is the user?
+				2) Where does our product fit?
+				3) What problems does our product solve?
+	2. Hypothesis:
+	Hypothesis tell us what we think is true and how we can verify that this is true.
+	3. Outcomes: specify what you're trying to achieve
+	4. Personas: proto-personas, create personas with the team, use data to update and validate the personas
+	5. Features: design features to get to desired outcomes.
+
+
+
+
+## Part 2: Collaborative Design
+Why should design be a collaborative process?
+
+<p style="text-align: center">
+<img src="/images/Blah_images/Design_it.PNG" />
+<span class="caption">Agile method</span>
+</p> 
+Collaborative design helps ensure each member of the team can contribute ideas and feel ownership over the product. The authors provide many unique tools to foster collaboration in design, but the simplest tool is the most powerful: Conversation. Discussing design openly and frequently creates an environment where all members of the team can freely discuss changes and build trust. 
+
+
+
+
+## Part 3: MVPs and Experiments
+MVP stands for Minimal Viable Product.  In Lean UX, an MVP is "is the small thing you can make to learn if your product whether your hypothesis is valid."
+
+MVPs can range from click through wireframes to more high fidelity prototype depending on the needs of your team. The goal here is simple: don't spend time designing or creating unnecessary components. Low fidelity prototypes allow teams to change course quickly with little waste. 
+
+## Part 4: Feedback and Research
+This is how you will validate your MVP.
+
+While this may be the last step discussed in the book, research and feedback should never wait until the end. Research CAN and SHOULD be implemented at all steps of the product development cycle. Research techniques for each phase vary depending on where you are in the Product Cycle. 
+
+Techniques described include: weekly usability testing, interviews, testing sketches and wireframes, surveys, AB testing, telemetry, and more. One of the most important ideas is GOOB (Get out of the building). To truly understand your customers, you have to leave the office and get out into the field. Meeting with customers and understanding their needs is critical in Lean UX. 
+
+## Summary
+Lean UX is a process and mindset to implement UX principles in an Agile world. Lean UX combines collaboration, design, and research in a way that teams can successfully create products and minimize waste. 
