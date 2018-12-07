@@ -12,7 +12,7 @@ In the book <a href="https://www.amazon.com/Value-Proposition-Design-Customers-S
 What was fascinating to me about this book is it really embeds value proposition in a viable business model to capture value.  This is the Business Model Canvas to describe how organizations create, deliver, and capture value, and readers could zoom in and out to view the Value Proposition as a key component of the business model without losing sight of the bigger picture.
  
 <p style="text-align: center">
-    <img src="/images/VPD/1.png" />
+    <img src="/images/VPD/1.jpg" />
     <span class="caption">Business Model Canvas</span>
 </p>
 
