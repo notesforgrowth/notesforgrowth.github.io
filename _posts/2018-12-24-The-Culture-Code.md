@@ -3,9 +3,9 @@ layout: post
 title: The Culture Code
 author: Travis Lowdermilk
 ---
-In his book [The Culture Code: The Secrets of Highly Successful Groups](https://smile.amazon.com/Culture-Code-Secrets-Highly-Successful/dp/0804176981/, "The Culture Code: The Secrets of Highly Successful Groups"). author Daniel Coyle visits a variety of diverse teams to identify what makes some cultures succeed and others fail.
+In his book [The Culture Code: The Secrets of Highly Successful Groups](https://smile.amazon.com/Culture-Code-Secrets-Highly-Successful/dp/0804176981/ "The Culture Code: The Secrets of Highly Successful Groups"). author Daniel Coyle visits a variety of diverse teams to identify what makes some cultures succeed and others fail.
 
-Coyle spent four years exploring and defining what cultural attributes make teams successful. His journey led him to spend time with the U.S. Navy Seals, CEO of Zappos - [Tony Hsieh](https://en.wikipedia.org/wiki/Tony_Hsieh, "Tony Hsieh"), Pixar, and legendary coach of the San Antonio Spurs - [Gregg Popovich](https://en.wikipedia.org/wiki/Gregg_Popovich, "Gregg Popovich"). Just to name a few.
+Coyle spent four years exploring and defining what cultural attributes make teams successful. His journey led him to spend time with the U.S. Navy Seals, CEO of Zappos - [Tony Hsieh](https://en.wikipedia.org/wiki/Tony_Hsieh "Tony Hsieh"), Pixar, and legendary coach of the San Antonio Spurs - [Gregg Popovich](https://en.wikipedia.org/wiki/Gregg_Popovich "Gregg Popovich"). Just to name a few.
 
 The book is full of inspiring stories from leaders who have built cultures that have not only performed exceptionally but have built a lasting impression in those that have lived within them. These are successful teams whose behavior is worth studying and adopting. When looking at them together, patterns begin to emerge.
 
