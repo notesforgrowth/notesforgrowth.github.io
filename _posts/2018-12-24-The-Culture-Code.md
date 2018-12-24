@@ -72,7 +72,7 @@ Beyond the 3 skills, one major theme stands out. **The language you use embodies
 
 Coach Popavich distills his entire approach by telling his staff to continually care for the players by "hugging 'em and holding 'em."
 
-[Danny Meyer](https://en.wikipedia.org/wiki/Danny_Meyer, "Danny Meyer"), the incredibly successful New York restauratuer, has numerous maxims that he uses within his restaurants:
+[Danny Meyer](https://en.wikipedia.org/wiki/Danny_Meyer "Danny Meyer"), the incredibly successful New York restauratuer, has numerous maxims that he uses within his restaurants:
 
 * Read the guest
 * Athletic hospitality
