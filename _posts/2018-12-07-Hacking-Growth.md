@@ -38,7 +38,7 @@ _"How dissapointed would you be if [product or feature] was not delivered?"_
 ### 4. Combine Qualitative "Why" with Quantitative "What" Research
 Customer interviews are the most effective approach to understanding "why" our core market does or does not see our experience as a "must have".
 
-This early product lifecycle emphasis on getting at the "why" through qualitative research needs to be complimented with qualitative research such as large scale surveys.  The integration of the two yields higher confidence in the results of both.  It gives us confidence during early concept development that we understand "why" our ideas are (or are not) resonating with customers.
+This early product lifecycle emphasis on getting at the "why" through qualitative research needs to be complimented with quantitative research such as large scale surveys.  The integration of the two yields higher confidence in the results of both.  It gives us confidence during early concept development that we understand "why" our ideas are (or are not) resonating with customers.
 
 If teams measure what's going on using quantitative experiments they also need to ask themselves, "why are customers behaving this way?" by using qualitative experiments.  
 
@@ -109,9 +109,7 @@ This simple equation can help us keep the two primary forces that shape our cust
 ### 14. NUX Conversion Trinity
 The authors put forth two simple rules or guidelines for designing and optimizing the new user experience (NUX) for your product or service.  Their first recommendation is to treat it as a product of its own.  One that warrants crafting its own special experience for it.  One benefit they cite of making it its own experience is that it makes it easier for the growth team to conduct experiments on this experience without having to manage inner dependencies with other aspects of the customer journey and without impacting the experience of current users. 
 
-The second rule of thumb is that the first page of the NUX experience must accomplish three fundamental things:
-
-communicate relevance, show the value of the product, and provide a clear call to action.  They credit Bryan Eisenberg as having coined the term the "conversion trinity" to refer to these three factors.  I found the following definition they provide for each of the factors to be useful.
+The second rule of thumb is that the first page of the NUX experience must accomplish three fundamental things: communicate relevance, show the value of the product, and provide a clear call to action.  They credit Bryan Eisenberg as having coined the term the "conversion trinity" to refer to these three factors.  I found the following definition they provide for each of the factors to be useful.
 
 >"Relevance stands for how well the page matches the intent or desire of the visitor- is this what they came for?  Showing value is immediately answering the visitor's question 'What's in it for me?' clearly and concisely.  Lastly, the call to action provides a compelling next step for visitors to take."
 
