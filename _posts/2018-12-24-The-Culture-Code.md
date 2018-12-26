@@ -38,7 +38,7 @@ Once a team is operating with mutual safety, they can share in being vulnerable.
 
 Shared vulnerability leads to shared cooperation.
 
-Coyle gives numerous examples where leaders admit mistakes, express concern or doubt, and solicit advice on how to improve themselves or the project. These leaders are focused on outcomes over their stature. Coyle even found this behavior within the military (U.S. Navy Seals and Army's Delta Force) where one would imagine that a top-down "do it because I said so" mentality would be engrained in the culture. 
+Coyle gives numerous examples where leaders admit mistakes, express concern or doubt, and solicit advice on how to improve themselves or the project. These leaders are focused on outcomes over their stature. Coyle even found this behavior within the military (U.S. Navy Seals and Army's Delta Force) where one would imagine that a top-down "do it because I said so" mentality would be ingrained in the culture. 
 
 This behavior, creating shared vulnerability sends a strong cue to the entire group: _we're in this together_.
 
