@@ -3,7 +3,7 @@ layout: post
 title: The Innovator's DNA
 author: Travis Lowdermilk
 ---
-In [The Innovator's DNA: Mastering the Five Skills of Disruptive Innovation](https://smile.amazon.com/Innovators-DNA-Mastering-Skills-Disruptive/dp/1422134814/ref=sr_1_1?crid=YSRBMCD8UBZN&keywords=the+innovators+dna&qid=1547999036&sprefix=the+innov%2Caps%2C380&sr=8-1 "The Innovator's DNA: Mastering the Five Skills of Innovation"), authors Jeff Dyer, Hal Gregersen, and Clayton Christensen completed an extensive study of the world's top innovators. Their goal was identify and define the common characteristics and behavioral patterns of these leaders as well as how their companies were organized to unlock innovative ideas and opportunities.
+In [The Innovator's DNA: Mastering the Five Skills of Disruptive Innovation](https://smile.amazon.com/Innovators-DNA-Mastering-Skills-Disruptive/dp/1422134814/ref=sr_1_1?crid=YSRBMCD8UBZN&keywords=the+innovators+dna&qid=1547999036&sprefix=the+innov%2Caps%2C380&sr=8-1 "The Innovator's DNA: Mastering the Five Skills of Innovation"), authors Jeff Dyer, Hal Gregersen, and Clayton Christensen completed an extensive study of the world's top innovators. Their goal was to identify and define the common characteristics and behavioral patterns of these leaders as well as how their companies were organized to unlock innovative ideas and opportunities.
 
 The authors studied companies that scored high on a _innovation premium score_; which is when a firm's market value was higher than the cash flows from its existing businesses. In other words, companies that the market deemed valuable based on its potential future earnings.
 
@@ -52,13 +52,13 @@ Many innovative CEOs create opportunities for networking within their companies.
 Innovators value their connections with others and spend time investing in their internal and external human networks. They often share early ideas and leverage their networks to help them shape, define, and refine them.
 
 #### Experimenting ####
- Innovators have a high risk tolerance and a willingness to embrace failure - if it leads to quick learning. They see experimentation and failure as a necessary, if not vital, part of the innovation process.
+ Innovators have a high-risk tolerance and a willingness to embrace failure - if it leads to quick learning. They see experimentation and failure as a necessary, if not vital, part of the innovation process.
 
 Thomas Edison, legendary American scientist and inventor, famously said:
 
  > I have not failed. I've just found 10,000 ways that won't work.
 
- The book is full of countless stories where innovators continually experimented and iterated on their ides. They continually challenged their own assumptions and were willing to pivot their understanding in order to find success. 
+ The book is full of countless stories where innovators continually experimented and iterated on their ideas. They continually challenged their own assumptions and were willing to pivot their understanding in order to find success. 
 
  ### Combining Discovery Skills with Delivery Skills ###
  The most innovative companies had a healthy balance of discovery and delivery skills within a team.
