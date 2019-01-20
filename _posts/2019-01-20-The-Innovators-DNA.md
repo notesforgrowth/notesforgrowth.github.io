@@ -60,6 +60,8 @@ Thomas Edison, legendary American scientist and inventor, famously said:
 
  The book is full of countless stories where innovators continually experimented and iterated on their ideas. They continually challenged their own assumptions and were willing to pivot their understanding in order to find success.
 
+ ### The Four Discovery Skills ###
+
  # Combining Discovery Skills with Delivery Skills #
  The most innovative companies had a healthy balance of discovery and delivery skills within a team.
 
