@@ -13,27 +13,27 @@ Throughout their journey, the authors identified 4 core behaviors that all innov
 #### Questioning ####
 A key skill of many innovators is their willingness to challenge the status quo. Most often than not, they challenged conventional wisdom by simply asking lots of questions. For example, Jeff Bezos (CEO and founder of Amazon) routinely employs the "Five Whys". Essentially, he continues to ask "Why?" until he is able to surface a root cause. Once the root cause is identified, he's able to unlock potentially innovative solutions. For example, let's imagine a package arrived late to its destination:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"The package arrived 3 days late."
+"The package arrived 3 days late."
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_"Why?"_
+_"Why?"_
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"It appears it got lost between Dallas and Jasper."
+"It appears it got lost between Dallas and Jasper."
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_"Why?"_
+_"Why?"_
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"The package fell off a pallet while in the Dallas warehouse."
+"The package fell off a pallet while in the Dallas warehouse."
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_"Why?"_
+_"Why?"_
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Because the pallet wasn't wrapped and when the forklift driver moved it, the package fell off the top."
+"Because the pallet wasn't wrapped and when the forklift driver moved it, the package fell off the top."
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_"Why?"_
+_"Why?"_
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"It takes too much time for our forklift drivers to wrap the pallets before they move them."
+"It takes too much time for our forklift drivers to wrap the pallets before they move them."
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_"Why?"_
+_"Why?"_
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"They have a lot of pallets to move during the day. Taking the time to leave the forklift to find a roll of plastic is just too time consuming."
+"They have a lot of pallets to move during the day. Taking the time to leave the forklift to find a roll of plastic is just too time consuming."
 
 This technique of questioning allows us to correctly frame the problem and identify hidden solutions (e.g. providing a roll of plastic on each forklift, hiring a team to focus on wrapping pallets, etc.). Asking questions like "Why?" and "Why not?" are ways for innovators to understand problems and discover overlooked opportunities.
 
@@ -59,7 +59,7 @@ Thomas Edison, legendary American scientist and inventor, famously said:
  >I have not failed. I've just found 10,000 ways that won't work.
 
  The book is full of countless stories where innovators continually experimented and iterated on their ideas. They continually challenged their own assumptions and were willing to pivot their understanding in order to find success.
- 
+
  ### Combining Discovery Skills with Delivery Skills ###
  The most innovative companies had a healthy balance of discovery and delivery skills within a team.
 
