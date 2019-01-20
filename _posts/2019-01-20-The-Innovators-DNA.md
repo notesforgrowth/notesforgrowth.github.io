@@ -52,31 +52,31 @@ Many innovative CEOs create opportunities for networking within their companies.
 Innovators value their connections with others and spend time investing in their internal and external human networks. They often share early ideas and leverage their networks to help them shape, define, and refine them.
 
 #### Experimenting ####
- Innovators have a high-risk tolerance and a willingness to embrace failure - if it leads to quick learning. They see experimentation and failure as a necessary, if not vital, part of the innovation process.
+Innovators have a high-risk tolerance and a willingness to embrace failure - if it leads to quick learning. They see experimentation and failure as a necessary, if not vital, part of the innovation process.
 
 Thomas Edison, legendary American scientist and inventor, famously said:
 
- >I have not failed. I've just found 10,000 ways that won't work.
+> I have not failed. I've just found 10,000 ways that won't work.
 
- The book is full of countless stories where innovators continually experimented and iterated on their ideas. They continually challenged their own assumptions and were willing to pivot their understanding in order to find success.
+The book is full of countless stories where innovators continually experimented and iterated on their ideas. They continually challenged their own assumptions and were willing to pivot their understanding in order to find success.
 
- ### Combining Discovery and Delivery Skills ###
- The most innovative companies had a healthy balance of discovery and delivery skills within a team.
+### Combining Discovery and Delivery Skills ###
+The most innovative companies had a healthy balance of discovery and delivery skills within a team.
 
- While discovery innovators leverage their associating skills, delivery innovators leverage their ability to analyze, plan, and implement ideas in a consistent and reliable way. Delivery innovators have a high degree of self-discipline and can remain focused to ensure that ideas don't "die on the vine."
+While discovery innovators leverage their associating skills, delivery innovators leverage their ability to analyze, plan, and implement ideas in a consistent and reliable way. Delivery innovators have a high degree of self-discipline and can remain focused to ensure that ideas don't "die on the vine."
 
- While delivery innovators might appear quite different than discovery innovators, they still share many similarities. For instance, delivery innovators leverage discovery skills (questioning, observing, and networking) to ensure they create the right associations to delivery on an idea.
+While delivery innovators might appear quite different than discovery innovators, they still share many similarities. For instance, delivery innovators leverage discovery skills (questioning, observing, and networking) to ensure they create the right associations to delivery on an idea.
 
- The authors discovered the most innovative companies had a healthy synergy between discovery and delivery innovators. As an example, Steve Jobs leveraged Tim Cook's supply chain mastery for years before Cook eventually became CEO of Apple. Jobs's ability to envision new hardware and Cook's ability to find innovative ways to supply the necessary materials allowed Apple to dominate the competition and deliver best-in-class hardware.
+The authors discovered the most innovative companies had a healthy synergy between discovery and delivery innovators. As an example, Steve Jobs leveraged Tim Cook's supply chain mastery for years before Cook eventually became CEO of Apple. Jobs's ability to envision new hardware and Cook's ability to find innovative ways to supply the necessary materials allowed Apple to dominate the competition and deliver best-in-class hardware.
 
- ### People, Processes, and Philosophies ###
- Innovative organizations often reflect the founder's DNA. You'll find their associative thinking baked in to people, processes, and overall company philosophies.
+### People, Processes, and Philosophies ###
+Innovative organizations often reflect the founder's DNA. You'll find their associative thinking baked in to people, processes, and overall company philosophies.
 
- #### People ####
- The authors researched how innovative companies hired and trained employees within their organization. They found that many examples where hiring practices were influenced by the founder's ethos for innovative thinking. For example, during hiring interviews, Amazon will often instruct candidates to, "Tell us about the last time you invented something." This is a question that Bezos prefers because it exemplifies his curious spirit and desire to have a company full of curious inventors.
+#### People ####
+The authors researched how innovative companies hired and trained employees within their organization. They found that many examples where hiring practices were influenced by the founder's ethos for innovative thinking. For example, during hiring interviews, Amazon will often instruct candidates to, "Tell us about the last time you invented something." This is a question that Bezos prefers because it exemplifies his curious spirit and desire to have a company full of curious inventors.
 
- #### Processes ####
- Companies like P&G create opportunities for employees to engage in discovery skills. They create environments for employees to connect with customers and experiment with new ideas. Innovative companies also encourage employees to ask questions by creating Q+A events and Town Halls - where employees can speak directly to senior level executives, offer suggestions, and ask challenging questions. 
+#### Processes ####
+Companies like P&G create opportunities for employees to engage in discovery skills. They create environments for employees to connect with customers and experiment with new ideas. Innovative companies also encourage employees to ask questions by creating Q+A events and Town Halls - where employees can speak directly to senior level executives, offer suggestions, and ask challenging questions. 
 
 #### Philosophies ####
 Innovative leaders know that they must actively create a culture of innovation within their companies. Innovation isn't something that you can just wait to happen organically. You must have a philosophy of innovation in all areas of your company. Many innovative companies adhere to the following philosophies:
