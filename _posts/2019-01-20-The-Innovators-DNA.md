@@ -60,7 +60,7 @@ Thomas Edison, legendary American scientist and inventor, famously said:
 
  The book is full of countless stories where innovators continually experimented and iterated on their ideas. They continually challenged their own assumptions and were willing to pivot their understanding in order to find success.
 
- ### Combining Discovery Skills with Delivery Skills ###
+ # Combining Discovery Skills with Delivery Skills #
  The most innovative companies had a healthy balance of discovery and delivery skills within a team.
 
  While discovery innovators leverage their associating skills, delivery innovators leverage their ability to analyze, plan, and implement ideas in a consistent and reliable way. Delivery innovators have a high degree of self-discipline and can remain focused to ensure that ideas don't "die on the vine."
