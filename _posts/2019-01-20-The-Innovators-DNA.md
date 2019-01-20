@@ -13,6 +13,7 @@ Throughout their journey, the authors identified 4 core behaviors that all innov
 #### Questioning ####
 A key skill of many innovators is their willingness to challenge the status quo. Most often than not, they challenged conventional wisdom by simply asking lots of questions. For example, Jeff Bezos (CEO and founder of Amazon) routinely employs the "Five Whys". Essentially, he continues to ask "Why?" until he is able to surface a root cause. Once the root cause is identified, he's able to unlock potentially innovative solutions. For example, let's imagine a package arrived late to its destination:
 
+<div style="margin:0 3em 0 3em">
 "The package arrived 3 days late."
 
 _"Why?"_
@@ -32,6 +33,7 @@ _"Why?"_
 "It takes too much time for our forklift drivers to wrap the pallets before they move them."
 
 _"Why?"_
+</div>
 
 "They have a lot of pallets to move during the day. Taking the time to leave the forklift to find a roll of plastic is just too time consuming."
 
