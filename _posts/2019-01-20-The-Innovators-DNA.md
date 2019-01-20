@@ -56,7 +56,7 @@ Innovators value their connections with others and spend time investing in their
 
 Thomas Edison, legendary American scientist and inventor, famously said:
 
- > I have not failed. I've just found 10,000 ways that won't work.
+ >I have not failed. I've just found 10,000 ways that won't work.
 
  The book is full of countless stories where innovators continually experimented and iterated on their ideas. They continually challenged their own assumptions and were willing to pivot their understanding in order to find success. 
 
