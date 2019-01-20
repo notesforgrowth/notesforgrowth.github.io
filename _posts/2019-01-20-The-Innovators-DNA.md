@@ -23,10 +23,9 @@ A key skill of many innovators is their willingness to challenge the status quo.
 "Because the pallet wasn't wrapped and when the forklift driver moved it, the package fell off the top."<br><br>
 <i>"Why?"</i><br><br>
 "It takes too much time for our forklift drivers to wrap the pallets before they move them."<br><br>
-<i>"Why?"</i>s
-</div>
-
+<i>"Why?"</i><br><br>
 "They have a lot of pallets to move during the day. Taking the time to leave the forklift to find a roll of plastic is just too time consuming."
+</div>
 
 This technique of questioning allows us to correctly frame the problem and identify hidden solutions (e.g. providing a roll of plastic on each forklift, hiring a team to focus on wrapping pallets, etc.). Asking questions like "Why?" and "Why not?" are ways for innovators to understand problems and discover overlooked opportunities.
 
