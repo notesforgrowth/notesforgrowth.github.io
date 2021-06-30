@@ -83,17 +83,17 @@ This is pretty easy:
 I made up some answer values for the "surviving grad school" example:
 
 | __Outcomes__ | __Importance (%==4 or 5)__ | __Satisfaction (%==4 or 5)__ | __OpScore__ |
-| Writing papers | 6.7 | 7.6 | 12.4 |
-| Getting submitted paper accepted | 7.7 | 7.7 | 13.5 |
-| Completing homework | 9.7 | 9.7 | 15.4 |
-| Passing exams | 8.6 | 1.4 | 15.7 |
-| Supervising undergrad students | 3.3 | 3.3 | 9.1 |
-| Getting out of bed | 9.6 | 9.2 | 15.4 |
-| Having coffee | 9.0 | 9.3 | 14.8 |
-| Finding cheap food | 7.6 | 4.1 | 13.4 |
-| Discreet napping | 5.7 | 7.8 | 11.4 |
-| Fleeing from meetings | 8.9 | 8.9 | 14.7 |
-| Hiding from professors | 9.0 | 8.0 | 14.8 |
+| Passing exams | 8.57 | 1.43 | 15.71 |
+| Finding cheap food | 7.59 | 4.14 | 11.03 |
+| Hiding from professors | 9.00 | 8.00 | 10.00 |
+| Getting out of bed | 9.60 | 9.20 | 10.00 |
+| Completing homework | 9.68 | 9.68 | 9.68 |
+| Having coffee | 9.00 | 9.33 | 9.00 |
+| Fleeing from meetings | 8.95 | 8.95 | 8.95 |
+| Getting submitted paper accepted | 7.69 | 7.69 | 7.69 |
+| Writing papers | 6.67 | 7.62 | 6.67 |
+| Discreet napping | 5.65 | 7.83 | 5.65 |
+| Supervising undergrad students | 3.33 | 3.33 | 3.33 |
 
 _NOTE: Ulwick normalizes the percentages to 10 instead of 100. I'm not sure why, but this sometimes leads to confusion as the first impulse is to normalize the 1-5 question scale to 10 (by multipliying by 2)._
 
